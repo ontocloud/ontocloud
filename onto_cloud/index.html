@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<title>Ontocloud</title>
+<html>
+  <head>
+  	<link rel="stylesheet" type="text/css" href="style/visualization.css">
+  	<script src="../js/jquery-1.9.1-min.js"></script>
+  	<script src="../js/d3.v3.min.js"></script>
+    <script src="../js/ontologies.js"></script>
+    <script src="../js/ontology.js"></script>
+    <script src="../js/versions.js"></script>
+  </head>
+  <body>
+    <!-- Search div -->
+    <div class="search_div">
+      <form id="searchform" name="searchform" action="#" method="post">
+        <input id="search_for" type="text" value="Find an ontology..." onfocus="if(this.value==this.defaultValue) this.value='';"/> 
+        <a id="search_button" href="javascript:SearchOntology()" class="menu_button">Search</a>
+      </form> 
+    </div> 
+
+    <!-- Fixed menu div -->
+    <div class="fixed_menu_div">
+      <form id="fixed_menu_form" name="fixedmenu" action="#" method="post">
+        <a href="javascript:showOrHideFixedMenu()" class="menu_button">Menu</a> 
+      </form> 
+    </div>
+    <div id="fixed_menu_content_div" class="fixed_menu_content_div" style="visibility: hidden">
+      <form id="fixed_menu_content_form" name="fixedmenucontent" action="#" method="post">
+        <a href="javascript:ReloadPage()" class="fixed_menu_content_entry">Reset figure</a>  
+        <a href="javascript:showOrHideFixedSubMenu()" class="fixed_menu_content_entry">Load graph</a> 
+        <a id="show_shapes_link" href="javascript:shapesOnOff()" class="fixed_menu_content_entry_shapes">Show shapes</a> 
+      </form> 
+    </div>
+    <!-- Fixed sub menu content div -->
+    <div id="fixed_submenu_content_div" class="fixed_submenu_content_div" style="visibility: hidden">
+      <form id="fixed_submenu_content_form" name="fixedsubmenucontent" action="#" method="post">
+        <a href="javascript:loadGraph(0)" class="fixed_menu_content_entry">August 2013</a> 
+        <a href="javascript:loadGraph(1)" class="fixed_menu_content_entry">February 2013</a> 
+        <a href="javascript:showLoadCustomGraphDiv()" class="fixed_menu_content_entry">Custom graph</a> 
+      </form> 
+    </div>
+
+	<!-- Custom graph menu div -->
+	<div id="custom_graph_div" class="custom_graph_div" style="visibility: hidden">
+      <form id="custom_graph_form" name="customgraph" action="#" method="post">
+        <input id="custom_graph_ids" type="text" value="Insert ontology ids..." onfocus="if(this.value==this.defaultValue) this.value='';"/> 
+        <a href="javascript:loadCustomGraphSubmit()" class="menu_button">Submit</a>
+      </form> 
+    </div>
+
+    
+    <!-- TODO: Number of mappings when we hover on edge div -->
+    <div id="num_of_mappings_div" class "num_of_mappings_div" style="visibility: hidden">TEST</div>
+
+    <!-- Compass -->   
+    <div class="compass_div">  
+      <svg 
+        contentScriptType="text/ecmascript" 
+        width="100"
+        height="100"
+        xmlns:xlink="http://www.w3.org/1999/xlink" 
+        contentStyleType="text/css"  
+        xmlns="http://www.w3.org/2000/svg"
+        version="1.1">
+        
+       <!-- Pan and Zoom control -->
+        <circle class="compass_bg" cx="50" cy="50" r="42"></circle>
+        <path class="button" onclick="Pan(0,50)" d="M50 10 l12 20 a40,70 0 0,0 -24,0z"></path>
+        <path class="button" onclick="Pan(50,0)" d="M10 50 l20 -12 a70,40 0 0,0 0,24z"></path>
+        <path class="button" onclick="Pan(0,-50)" d="M50 90 l12 -20 a40,70 0 0,1 -24,0z"></path>
+        <path class="button" onclick="Pan(-50,0)" d="M90  50 l-20 -12 a70,40 0 0,1 0,24z"></path>
+        <circle class="compass" cx="50" cy="50" r="20"></circle>
+        <circle class="button"  cx="50" cy="41" r="8" onclick="Zoom(0.9)"></circle>
+        <circle class="button"  cx="50" cy="59" r="8" onclick="Zoom(1.1)"></circle>
+        <rect class="plus-minus" x="46" y="39.5" width="8" height="3"></rect>
+        <rect class="plus-minus" x="46" y="57.5" width="8" height="3"></rect>
+        <rect class="plus-minus" x="48" y="55" width="3" height="8"></rect>
+      </svg>
+    </div>
+
+  	<!-- Graph in SVG format -->
+    <svg id="graph" 
+      contentScriptType="text/ecmascript" 
+      width="1500"
+      height="850"
+      xmlns:xlink="http://www.w3.org/1999/xlink" 
+      zoomAndPan="magnify"
+      contentStyleType="text/css" 
+      viewBox="-500 -550 1680 1050" 
+      preserveAspectRatio="xMidYMid meet" 
+      xmlns="http://www.w3.org/2000/svg"
+      version="1.1"
+      onload="init_compass()">  
+      <g id="map-matrix" transform="matrix(1 0 0 1 0 0)"> 
+        <g id="edges"> </g>
+        <g id="nodes"> </g>
+        <g id="shapes"></g>
+        <g id="node-labels"></g>
+      
+        <!-- Node menu appears when we click on the node -->
+        <rect class="node_menu_bg" id="node_menu_bg" x="0" y="0" rx="4" ry="4" width="150" height="80" visibility="hidden"></rect>
+        <rect class="node_menu_bg_close" id="node_menu_close_bg" x="0" y="0" rx="4" ry="4" width="12" height="12" visibility="hidden"></rect>
+        <text class="node_menu_content" id="node_menu_content" x="0" y="0" visibility="hidden">
+          <tspan class="node_menu_entry" onClick="ShowOntology()">Ontology summary</tspan>
+          <tspan class="node_menu_entry" dy="20" onClick="ShowMappingsPage()">Mapping information</tspan>
+          <tspan class="node_menu_entry" dy="20" onClick="showCommunity()">Show community</tspan>
+          <tspan id="node_menu_entry_shape" class="node_menu_entry" dy="20" onClick="showShapeInformation()">Shape information</tspan>
+        </text>
+        <text class="node_menu_close_text" id="node_menu_close_text" x="0" y="0"  visibility="hidden">x</text>
+      
+        <!--Shape information popup -->
+        <g id="shape_information_popup" class="shape_information_popup" visibility="hidden">
+          <rect id="shape_information_popup_content_bg" class="node_menu_bg" width="170" height="90"></rect>
+          <rect id="shape_information_popup_close_bg" class="node_menu_bg" width="12" height="12"></rect>
+          <text x="5" y="20">
+            <tspan>Calculated shape:</tspan>
+            <tspan id="shape_information_popup_content_shape_value" x="10" dy="20">N/A</tspan>
+            <tspan x="5" dy="20">Number of all predicates:</tspan>
+            <tspan id="shape_information_popup_content_numofallpredicates" x='10' dy="20">N/A</tspan>
+          </text>
+          <text id="shape_information_popup_close_text" visibility="hidden" onClick="hideShapeInformation()">x</text>
+        </g>
+      </g> 
+    </svg>
+    <div id='seperator_bottom'>
+      <hr/>
+    </div>
+    <div id='license'>
+    	<a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">OntoCloud</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://bionlp.dbcls.jp/ontocloud/" property="cc:attributionName" rel="cc:attributionURL">DBCLS</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://bioportal.bioontology.org/" rel="dct:source">http://bioportal.bioontology.org/</a>.
+    </div>
+  </br>
+    <div id='updated'>
+      Last update: September 2013
+    </div>
+    <script src="../js/visualize.js"></script>
+    <script>initGraph();</script>
+    <div id='contact'><i>
+      This is work in progress. 
+      For any questions, comments or suggestion please contact: </br>
+      simon at dbcls dot rois dot ac dot jp
+    </i></div>
+  </body>
+</html>

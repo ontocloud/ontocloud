@@ -1,0 +1,2588 @@
+[
+	{
+		"abbr": "3.0_OWL",
+		"shape": "0.4677",
+		"size": "234452",
+		"top5": "http://bioontology.org/projects/ontologies/radlex/radlexOwl#Part_Of http://bioontology.org/projects/ontologies/radlex/radlexOwl#Continuous_With http://bioontology.org/projects/ontologies/radlex/radlexOwl#Has_Part http://bioontology.org/projects/ontologies/radlex/radlexOwl#Contained_In http://bioontology.org/projects/ontologies/radlex/radlexOwl#Has_Branch"
+	},
+	{
+		"abbr": "AAO",
+		"shape": "0.1994",
+		"size": "19114",
+		"top5": ""
+	},
+	{
+		"abbr": "ABA",
+		"shape": "0",
+		"size": "9617",
+		"top5": ""
+	},
+	{
+		"abbr": "ACGT",
+		"shape": "0.0002",
+		"size": "13274",
+		"top5": ""
+	},
+	{
+		"abbr": "ADW",
+		"shape": "0.0149",
+		"size": "2151",
+		"top5": ""
+	},
+	{
+		"abbr": "AEO",
+		"shape": "0",
+		"size": "3732",
+		"top5": ""
+	},
+	{
+		"abbr": "AERO",
+		"shape": "0.2801",
+		"size": "5218",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000114 http://purl.obolibrary.org/obo/IAO_0000412 http://purl.obolibrary.org/obo/IAO_0000231 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "AIR",
+		"shape": "0",
+		"size": "5528",
+		"top5": ""
+	},
+	{
+		"abbr": "AMINO_ACID-ZH_CN",
+		"shape": "0",
+		"size": "1634",
+		"top5": ""
+	},
+	{
+		"abbr": "AMINO-ACID",
+		"shape": "0.0044",
+		"size": "1562",
+		"top5": ""
+	},
+	{
+		"abbr": "APO",
+		"shape": "0",
+		"size": "4542",
+		"top5": ""
+	},
+	{
+		"abbr": "APOLLO",
+		"shape": "0",
+		"size": "9",
+		"top5": ""
+	},
+	{
+		"abbr": "ATMO",
+		"shape": "0",
+		"size": "1683",
+		"top5": ""
+	},
+	{
+		"abbr": "ATO",
+		"shape": "0",
+		"size": "55526",
+		"top5": ""
+	},
+	{
+		"abbr": "ATOL",
+		"shape": "0",
+		"size": "27757",
+		"top5": ""
+	},
+	{
+		"abbr": "BAO",
+		"shape": "0.0686",
+		"size": "11225",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000114 http://www.w3.org/2002/07/owl#sameAs http://www.w3.org/2002/07/owl#propertyDisjointWith http://purl.obolibrary.org/obo/IAO_0000412"
+	},
+	{
+		"abbr": "BASIC-VERTEBRATE-GROSS-ANATOMY",
+		"shape": "0.0287",
+		"size": "1028",
+		"top5": ""
+	},
+	{
+		"abbr": "BCGO",
+		"shape": "0.3244",
+		"size": "4180",
+		"top5": "http://www.owl-ontologies.com/Ontology1239104585.owl#hasComponent http://www.owl-ontologies.com/Ontology1239104585.owl#isSurrounding http://www.owl-ontologies.com/Ontology1239104585.owl#hasNuclearPleomorphismScoring http://www.owl-ontologies.com/Ontology1239104585.owl#hasSize http://www.owl-ontologies.com/Ontology1239104585.owl#surroundedBy"
+	},
+	{
+		"abbr": "BDO",
+		"shape": "0.0054",
+		"size": "209058",
+		"top5": "http://www.w3.org/2002/07/owl#equivalentClass http://www.geneontology.org/formats/oboInOwl#consider"
+	},
+	{
+		"abbr": "BFO",
+		"shape": "0",
+		"size": "467",
+		"top5": ""
+	},
+	{
+		"abbr": "BHO",
+		"shape": "0",
+		"size": "6526",
+		"top5": ""
+	},
+	{
+		"abbr": "BIBLIOGRAPHIC",
+		"shape": "0",
+		"size": "1012",
+		"top5": ""
+	},
+	{
+		"abbr": "BILA",
+		"shape": "0.3286",
+		"size": "1250",
+		"top5": ""
+	},
+	{
+		"abbr": "BIOA3V",
+		"shape": "0",
+		"size": "4291",
+		"top5": ""
+	},
+	{
+		"abbr": "BIOCODE",
+		"shape": "0.3528",
+		"size": "7213",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+	},
+	{
+		"abbr": "BIOMODELS",
+		"shape": "0.0121",
+		"size": "2927013",
+		"top5": "http://www.geneontology.org/formats/oboInOwl#replacedBy"
+	},
+	{
+		"abbr": "BIOSITEMAPIM",
+		"shape": "0",
+		"size": "230",
+		"top5": ""
+	},
+	{
+		"abbr": "BIRNLEX",
+		"shape": "0",
+		"size": "40405",
+		"top5": ""
+	},
+	{
+		"abbr": "BO",
+		"shape": "0.0891",
+		"size": "1528",
+		"top5": "http://www.w3.org/2002/07/owl#imports http://www.daml.org/services/owl-s/1.1/generic/Expression.owl#expressionLanguage http://www.w3.org/2002/07/owl#equivalentClass http://www.daml.org/services/owl-s/1.1/Service.owl#describedBy http://www.daml.org/services/owl-s/1.1/Service.owl#presents"
+	},
+	{
+		"abbr": "BODYSYSTEM",
+		"shape": "0",
+		"size": "117",
+		"top5": ""
+	},
+	{
+		"abbr": "BP",
+		"shape": "0",
+		"size": "1230",
+		"top5": ""
+	},
+	{
+		"abbr": "BPMETADATA",
+		"shape": "0.05",
+		"size": "2502",
+		"top5": "http://protege.stanford.edu/ontologies/metadata/BioPortalMetadata.owl#supportsViewDefinitionLanguage"
+	},
+	{
+		"abbr": "BRIDG",
+		"shape": "0.0836",
+		"size": "113013",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+	},
+	{
+		"abbr": "BRO",
+		"shape": "0.0026",
+		"size": "1763",
+		"top5": ""
+	},
+	{
+		"abbr": "BRO_x1",
+		"shape": "0.1186",
+		"size": "6430",
+		"top5": ""
+	},
+	{
+		"abbr": "BRO-ACTIVITY",
+		"shape": "0.1",
+		"size": "284",
+		"top5": ""
+	},
+	{
+		"abbr": "BRO-AREAOFRESEARCH",
+		"shape": "0",
+		"size": "277",
+		"top5": ""
+	},
+	{
+		"abbr": "BRO-CHINESE",
+		"shape": "0",
+		"size": "2149",
+		"top5": ""
+	},
+	{
+		"abbr": "BRO-CORE",
+		"shape": "0.1404",
+		"size": "2274",
+		"top5": ""
+	},
+	{
+		"abbr": "BSPO",
+		"shape": "0.443",
+		"size": "2433",
+		"top5": ""
+	},
+	{
+		"abbr": "BT",
+		"shape": "0",
+		"size": "6025",
+		"top5": ""
+	},
+	{
+		"abbr": "BTO",
+		"shape": "0",
+		"size": "74707",
+		"top5": ""
+	},
+	{
+		"abbr": "CANCO",
+		"shape": "0",
+		"size": "1388",
+		"top5": ""
+	},
+	{
+		"abbr": "CAO",
+		"shape": "0.1761",
+		"size": "2764",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412"
+	},
+	{
+		"abbr": "CARELEX",
+		"shape": "0",
+		"size": "6956",
+		"top5": ""
+	},
+	{
+		"abbr": "CARO",
+		"shape": "0.02",
+		"size": "617",
+		"top5": ""
+	},
+	{
+		"abbr": "CBO",
+		"shape": "0",
+		"size": "2577",
+		"top5": ""
+	},
+	{
+		"abbr": "CCO",
+		"shape": "0.472",
+		"size": "4191046",
+		"top5": ""
+	},
+	{
+		"abbr": "CCONT",
+		"shape": "0",
+		"size": "101876",
+		"top5": ""
+	},
+	{
+		"abbr": "CDAO",
+		"shape": "0.0572",
+		"size": "1821",
+		"top5": "http://www.w3.org/2002/07/owl#equivalentClass"
+	},
+	{
+		"abbr": "CHEBI",
+		"shape": "0.4238",
+		"size": "1900738",
+		"top5": ""
+	},
+	{
+		"abbr": "CHEM2BIO2OWL",
+		"shape": "0",
+		"size": "1368",
+		"top5": ""
+	},
+	{
+		"abbr": "CHEMINF",
+		"shape": "0.1893",
+		"size": "7326",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000231 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://www.w3.org/2002/07/owl#imports http://purl.obolibrary.org/obo/IAO_0000412"
+	},
+	{
+		"abbr": "CITATION",
+		"shape": "0",
+		"size": "29",
+		"top5": ""
+	},
+	{
+		"abbr": "CL",
+		"shape": "0.5314",
+		"size": "139371",
+		"top5": ""
+	},
+	{
+		"abbr": "CLINICALTRIALONTOLOGY",
+		"shape": "0.0192",
+		"size": "564",
+		"top5": ""
+	},
+	{
+		"abbr": "CLO",
+		"shape": "0.0776",
+		"size": "244730",
+		"top5": "http://purl.obolibrary.org/obo/uberon#dubious_for_taxon http://purl.obolibrary.org/obo/RO_0002161 http://purl.obolibrary.org/obo/uberon#spatially_disjoint_from http://purl.obolibrary.org/obo/uberon#present_in_taxon http://purl.obolibrary.org/obo/IAO_0000114"
+	},
+	{
+		"abbr": "CMO",
+		"shape": "0.0101",
+		"size": "19350",
+		"top5": ""
+	},
+	{
+		"abbr": "CNO",
+		"shape": "0.2219",
+		"size": "5274",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+	},
+	{
+		"abbr": "CO_WHEAT",
+		"shape": "0",
+		"size": "2823",
+		"top5": ""
+	},
+	{
+		"abbr": "COGAT",
+		"shape": "0",
+		"size": "25779",
+		"top5": ""
+	},
+	{
+		"abbr": "COGPO",
+		"shape": "0.2732",
+		"size": "4950",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2002/07/owl#imports http://www.obofoundry.org/ro/ro.owl#has_part"
+	},
+	{
+		"abbr": "CONSENTONTOLOGY",
+		"shape": "0",
+		"size": "20888",
+		"top5": ""
+	},
+	{
+		"abbr": "CPO",
+		"shape": "0",
+		"size": "335",
+		"top5": ""
+	},
+	{
+		"abbr": "CPR",
+		"shape": "0.0175",
+		"size": "4510",
+		"top5": "http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "CPT",
+		"shape": "NaN",
+		"size": "76229",
+		"top5": ""
+	},
+	{
+		"abbr": "CPTAC",
+		"shape": "0",
+		"size": "435",
+		"top5": ""
+	},
+	{
+		"abbr": "CPT-MOD",
+		"shape": "0",
+		"size": "492",
+		"top5": ""
+	},
+	{
+		"abbr": "CSP",
+		"shape": "0.9186",
+		"size": "258641",
+		"top5": "http://purl.bioontology.org/ontology/CSP/RN http://purl.bioontology.org/ontology/CSP/RO http://purl.bioontology.org/ontology/CSP/RB"
+	},
+	{
+		"abbr": "CST",
+		"shape": "0",
+		"size": "22035",
+		"top5": ""
+	},
+	{
+		"abbr": "CTCAE",
+		"shape": "0",
+		"size": "50880",
+		"top5": ""
+	},
+	{
+		"abbr": "CTOINSKOS",
+		"shape": "1",
+		"size": "23592",
+		"top5": "http://geneontology.org/formats/oboInSKOS#super-class-of http://geneontology.org/formats/oboInSKOS#is-a http://www.w3.org/2004/02/skos/core#broader http://www.w3.org/2004/02/skos/core#narrower http://www.w3.org/2004/02/skos/core#related"
+	},
+	{
+		"abbr": "CTX",
+		"shape": "0.6514",
+		"size": "8131",
+		"top5": "http://www.owl-ontologies.com/OntologyXCT.owl#hasInterpretation http://www.owl-ontologies.com/OntologyXCT.owl#hasAgeatDiagnosis http://www.owl-ontologies.com/OntologyXCT.owl#hasStartSymptom http://www.owl-ontologies.com/OntologyXCT.owl#hasPresentationForm http://www.owl-ontologies.com/OntologyXCT.owl#hasOtherManifestations"
+	},
+	{
+		"abbr": "DC_CL",
+		"shape": "0.3089",
+		"size": "3219",
+		"top5": ""
+	},
+	{
+		"abbr": "DCELEMENTS",
+		"shape": "NaN",
+		"size": "5",
+		"top5": ""
+	},
+	{
+		"abbr": "DCTERMS",
+		"shape": "NaN",
+		"size": "23",
+		"top5": ""
+	},
+	{
+		"abbr": "DDANAT",
+		"shape": "0.256",
+		"size": "2721",
+		"top5": ""
+	},
+	{
+		"abbr": "DDI",
+		"shape": "0.2543",
+		"size": "5856",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000231 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "DERMLEX",
+		"shape": "0.3332",
+		"size": "24573",
+		"top5": ""
+	},
+	{
+		"abbr": "DIAGNOSTICONT",
+		"shape": "0",
+		"size": "729",
+		"top5": ""
+	},
+	{
+		"abbr": "DIKB-EVIDENCE",
+		"shape": "0.0018",
+		"size": "2307",
+		"top5": ""
+	},
+	{
+		"abbr": "DOID",
+		"shape": "0.1982",
+		"size": "188674",
+		"top5": ""
+	},
+	{
+		"abbr": "ECG",
+		"shape": "0.0044",
+		"size": "8543",
+		"top5": ""
+	},
+	{
+		"abbr": "ECGF",
+		"shape": "0",
+		"size": "1957",
+		"top5": ""
+	},
+	{
+		"abbr": "ECGT",
+		"shape": "0.0072",
+		"size": "5753",
+		"top5": ""
+	},
+	{
+		"abbr": "ECO",
+		"shape": "0.0397",
+		"size": "4554",
+		"top5": ""
+	},
+	{
+		"abbr": "EDAM",
+		"shape": "0.1413",
+		"size": "36106",
+		"top5": "http://www.geneontology.org/formats/oboInOwl#replacedBy"
+	},
+	{
+		"abbr": "EFO",
+		"shape": "0.0678",
+		"size": "224046",
+		"top5": ""
+	},
+	{
+		"abbr": "EHDA",
+		"shape": "0",
+		"size": "83340",
+		"top5": ""
+	},
+	{
+		"abbr": "EHDAA",
+		"shape": "NaN",
+		"size": "18659",
+		"top5": ""
+	},
+	{
+		"abbr": "EHDAA2",
+		"shape": "0.0067",
+		"size": "59747",
+		"top5": ""
+	},
+	{
+		"abbr": "EMAP",
+		"shape": "NaN",
+		"size": "109848",
+		"top5": ""
+	},
+	{
+		"abbr": "ENVO",
+		"shape": "0.3996",
+		"size": "26650",
+		"top5": ""
+	},
+	{
+		"abbr": "ENVO_153",
+		"shape": "0.4627",
+		"size": "23113",
+		"top5": ""
+	},
+	{
+		"abbr": "EO",
+		"shape": "0",
+		"size": "5280",
+		"top5": ""
+	},
+	{
+		"abbr": "EP",
+		"shape": "0.0065",
+		"size": "36607",
+		"top5": ""
+	},
+	{
+		"abbr": "EPILEPONTO",
+		"shape": "0",
+		"size": "879",
+		"top5": ""
+	},
+	{
+		"abbr": "ERO",
+		"shape": "0.5157",
+		"size": "33687",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000231"
+	},
+	{
+		"abbr": "EV",
+		"shape": "0",
+		"size": "18461",
+		"top5": ""
+	},
+	{
+		"abbr": "EVENT",
+		"shape": "0",
+		"size": "66",
+		"top5": ""
+	},
+	{
+		"abbr": "EXO",
+		"shape": "0",
+		"size": "1322",
+		"top5": ""
+	},
+	{
+		"abbr": "FABIO",
+		"shape": "NaN",
+		"size": "20",
+		"top5": ""
+	},
+	{
+		"abbr": "FAO",
+		"shape": "0.1099",
+		"size": "1092",
+		"top5": ""
+	},
+	{
+		"abbr": "FBBI",
+		"shape": "0.0038",
+		"size": "4705",
+		"top5": ""
+	},
+	{
+		"abbr": "FBBT",
+		"shape": "0.0295",
+		"size": "153478",
+		"top5": ""
+	},
+	{
+		"abbr": "FBCV",
+		"shape": "0.039",
+		"size": "9333",
+		"top5": ""
+	},
+	{
+		"abbr": "FBDV",
+		"shape": "0.0079",
+		"size": "2908",
+		"top5": ""
+	},
+	{
+		"abbr": "FBSP",
+		"shape": "0.2494",
+		"size": "42806",
+		"top5": ""
+	},
+	{
+		"abbr": "FDA-MEDDEVICE",
+		"shape": "0",
+		"size": "61147",
+		"top5": ""
+	},
+	{
+		"abbr": "FHHO",
+		"shape": "0",
+		"size": "6639",
+		"top5": ""
+	},
+	{
+		"abbr": "FIELD",
+		"shape": "0.0517",
+		"size": "171",
+		"top5": ""
+	},
+	{
+		"abbr": "FIX",
+		"shape": "0",
+		"size": "7618",
+		"top5": ""
+	},
+	{
+		"abbr": "FLU",
+		"shape": "0.2476",
+		"size": "5426",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "FMA",
+		"shape": "0.2331",
+		"size": "1714653",
+		"top5": "http://sig.uw.edu/fma#arterial_supply_of http://sig.uw.edu/fma#continuous_with http://sig.uw.edu/fma#sends_output_to http://sig.uw.edu/fma#receives_input_from http://sig.uw.edu/fma#regional_part"
+	},
+	{
+		"abbr": "FMA_SUBSET",
+		"shape": "0",
+		"size": "612956",
+		"top5": ""
+	},
+	{
+		"abbr": "FOAF",
+		"shape": "0",
+		"size": "125",
+		"top5": ""
+	},
+	{
+		"abbr": "FYPO",
+		"shape": "0.1556",
+		"size": "175208",
+		"top5": ""
+	},
+	{
+		"abbr": "GALEN",
+		"shape": "0",
+		"size": "272562",
+		"top5": ""
+	},
+	{
+		"abbr": "GAZ",
+		"shape": "0.6484",
+		"size": "8631345",
+		"top5": ""
+	},
+	{
+		"abbr": "GEOPOLITICAL",
+		"shape": "0",
+		"size": "1042",
+		"top5": ""
+	},
+	{
+		"abbr": "GEOSPECIES",
+		"shape": "0.4121",
+		"size": "9623",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://www.w3.org/2002/07/owl#equivalentClass http://www.w3.org/2000/01/rdf-schema#seeAlso"
+	},
+	{
+		"abbr": "GFO",
+		"shape": "0",
+		"size": "647",
+		"top5": ""
+	},
+	{
+		"abbr": "GFO-BIO",
+		"shape": "0.0105",
+		"size": "1369",
+		"top5": ""
+	},
+	{
+		"abbr": "GLYCO",
+		"shape": "0.9646",
+		"size": "188380",
+		"top5": "http://glycomics.ccrc.uga.edu/ontologies/GlycO#has_second_monosaccharide_configuration http://glycomics.ccrc.uga.edu/ontologies/GlycO#has_atom http://glycomics.ccrc.uga.edu/ontologies/GlycO#has_anomeric_configuration http://glycomics.ccrc.uga.edu/ontologies/GlycO#has_ring_form http://glycomics.ccrc.uga.edu/ontologies/GlycO#has_sugar_structural_variation"
+	},
+	{
+		"abbr": "GLYCOPROT",
+		"shape": "0",
+		"size": "295",
+		"top5": ""
+	},
+	{
+		"abbr": "GO",
+		"shape": "0.0457",
+		"size": "961824",
+		"top5": ""
+	},
+	{
+		"abbr": "GO-EXT",
+		"shape": "0.1712",
+		"size": "846551",
+		"top5": ""
+	},
+	{
+		"abbr": "GOSLIM_CANDIDA",
+		"shape": "0.7124",
+		"size": "2465",
+		"top5": ""
+	},
+	{
+		"abbr": "GOSLIM_GENERIC",
+		"shape": "0.4961",
+		"size": "2895",
+		"top5": ""
+	},
+	{
+		"abbr": "GOSLIM_GOA",
+		"shape": "0.1867",
+		"size": "1513",
+		"top5": ""
+	},
+	{
+		"abbr": "GOSLIM_PIR",
+		"shape": "0.4443",
+		"size": "10341",
+		"top5": ""
+	},
+	{
+		"abbr": "GOSLIM_PIR_x1",
+		"shape": "0.4443",
+		"size": "10341",
+		"top5": ""
+	},
+	{
+		"abbr": "GOSLIM_PLANT",
+		"shape": "0.5174",
+		"size": "2456",
+		"top5": ""
+	},
+	{
+		"abbr": "GOSLIM_POMBE",
+		"shape": "0.8583",
+		"size": "1503",
+		"top5": ""
+	},
+	{
+		"abbr": "GOSLIM_YEAST",
+		"shape": "0.6642",
+		"size": "2529",
+		"top5": ""
+	},
+	{
+		"abbr": "GRO",
+		"shape": "0",
+		"size": "5210",
+		"top5": ""
+	},
+	{
+		"abbr": "GRO_CPD",
+		"shape": "0",
+		"size": "2652",
+		"top5": ""
+	},
+	{
+		"abbr": "GRO_CPGA",
+		"shape": "0.3168",
+		"size": "41772",
+		"top5": ""
+	},
+	{
+		"abbr": "GWAS_EFO_SKOS",
+		"shape": "0.1966",
+		"size": "257352",
+		"top5": "http://www.w3.org/2004/02/skos/core#narrower http://purl.obolibrary.org/obo/ncbitaxon#has_rank http://www.w3.org/2004/02/skos/core#broaderTransitive http://www.w3.org/2004/02/skos/core#narrowerTransitive http://www.w3.org/2004/02/skos/core#semanticRelation"
+	},
+	{
+		"abbr": "H1_NMOABA",
+		"shape": "0",
+		"size": "5028",
+		"top5": ""
+	},
+	{
+		"abbr": "H1_NMOABA_x1",
+		"shape": "0",
+		"size": "5097",
+		"top5": ""
+	},
+	{
+		"abbr": "H1_NMOABA_x2",
+		"shape": "0",
+		"size": "5104",
+		"top5": ""
+	},
+	{
+		"abbr": "H1_NMOABA_x3",
+		"shape": "0",
+		"size": "5028",
+		"top5": ""
+	},
+	{
+		"abbr": "H2_HIPCLASSICREGIONS",
+		"shape": "0",
+		"size": "64",
+		"top5": ""
+	},
+	{
+		"abbr": "H3_HIPSEPTOTEMPORALAXIS",
+		"shape": "0",
+		"size": "34",
+		"top5": ""
+	},
+	{
+		"abbr": "HAO",
+		"shape": "0",
+		"size": "40879",
+		"top5": ""
+	},
+	{
+		"abbr": "HCPCS",
+		"shape": "1",
+		"size": "96969",
+		"top5": "http://purl.bioontology.org/ontology/HCPCS/mapped_to"
+	},
+	{
+		"abbr": "HCPCS-HIMC",
+		"shape": "0.0128",
+		"size": "82257",
+		"top5": ""
+	},
+	{
+		"abbr": "HCPCS-MOD",
+		"shape": "0",
+		"size": "520",
+		"top5": ""
+	},
+	{
+		"abbr": "HIMC-CPT",
+		"shape": "0.0004",
+		"size": "271860",
+		"top5": ""
+	},
+	{
+		"abbr": "HINO",
+		"shape": "0.0586",
+		"size": "706665",
+		"top5": "http://purl.obolibrary.org/obo/ncbitaxon#has_rank http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "HL7",
+		"shape": "0.0028",
+		"size": "142056",
+		"top5": "http://purl.bioontology.org/ontology/HL7/larger_than http://purl.bioontology.org/ontology/HL7/mth_has_plain_text_form http://purl.bioontology.org/ontology/HL7/mth_plain_text_form_of http://purl.bioontology.org/ontology/HL7/CHD"
+	},
+	{
+		"abbr": "HLTH_INDICS",
+		"shape": "0",
+		"size": "2183",
+		"top5": ""
+	},
+	{
+		"abbr": "HOM",
+		"shape": "0.17",
+		"size": "1380",
+		"top5": ""
+	},
+	{
+		"abbr": "HOM-HARVARD",
+		"shape": "0",
+		"size": "1107",
+		"top5": ""
+	},
+	{
+		"abbr": "HOM-ICD9",
+		"shape": "0",
+		"size": "177429",
+		"top5": ""
+	},
+	{
+		"abbr": "HOM-UCSF_UCAREDISPOSTION",
+		"shape": "0",
+		"size": "449",
+		"top5": ""
+	},
+	{
+		"abbr": "HP",
+		"shape": "0.0011",
+		"size": "116832",
+		"top5": ""
+	},
+	{
+		"abbr": "HPIO",
+		"shape": "0",
+		"size": "2842",
+		"top5": ""
+	},
+	{
+		"abbr": "HSDB_OCRE",
+		"shape": "0.1104",
+		"size": "5984",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000114 http://purl.org/net/OCRe/export_annotations_def.owl#OCRE520413 http://purl.org/net/OCRe/export_annotations_def.owl#OCRE826078 http://www.w3.org/2002/07/owl#imports http://purl.org/net/OCRe/HSDB_OCRe.owl#OCRE875514"
+	},
+	{
+		"abbr": "HUGO",
+		"shape": "0",
+		"size": "898855",
+		"top5": ""
+	},
+	{
+		"abbr": "IAO",
+		"shape": "0.4015",
+		"size": "2598",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000231 http://purl.obolibrary.org/obo/IAO_0000412"
+	},
+	{
+		"abbr": "ICD0",
+		"shape": "0",
+		"size": "12568",
+		"top5": ""
+	},
+	{
+		"abbr": "ICD09",
+		"shape": "0",
+		"size": "576414",
+		"top5": ""
+	},
+	{
+		"abbr": "ICD10",
+		"shape": "0",
+		"size": "87925",
+		"top5": ""
+	},
+	{
+		"abbr": "ICD10CM",
+		"shape": "0.8293",
+		"size": "1119554",
+		"top5": ""
+	},
+	{
+		"abbr": "ICD10PCS",
+		"shape": "0.7457",
+		"size": "1844776",
+		"top5": ""
+	},
+	{
+		"abbr": "ICD9CM",
+		"shape": "0.8604",
+		"size": "322211",
+		"top5": ""
+	},
+	{
+		"abbr": "ICD9CM-PROC",
+		"shape": "0",
+		"size": "47707",
+		"top5": ""
+	},
+	{
+		"abbr": "ICECI",
+		"shape": "0.0516",
+		"size": "15862",
+		"top5": "http://who.int/iceci#relevantDataElement"
+	},
+	{
+		"abbr": "ICECI-ACTIVITY",
+		"shape": "0.2614",
+		"size": "250",
+		"top5": ""
+	},
+	{
+		"abbr": "ICECI-COUNTERMEASURES",
+		"shape": "0",
+		"size": "206",
+		"top5": ""
+	},
+	{
+		"abbr": "ICECI-DESCRIPTOR_FOR_INTENT",
+		"shape": "0.0502",
+		"size": "1545",
+		"top5": ""
+	},
+	{
+		"abbr": "ICECI-DETAILS_FOR_ACTIVITY",
+		"shape": "0.0162",
+		"size": "2345",
+		"top5": ""
+	},
+	{
+		"abbr": "ICECI-DETAILS_FOR_MECHANISM",
+		"shape": "0.0886",
+		"size": "1143",
+		"top5": ""
+	},
+	{
+		"abbr": "ICECI-DETAILS_FOR_PLACE_OF_OCCURRENCE",
+		"shape": "0.016",
+		"size": "432",
+		"top5": ""
+	},
+	{
+		"abbr": "ICECI-INSTRUMENT_OBJECT_SUBSTANCE",
+		"shape": "0.0055",
+		"size": "7606",
+		"top5": ""
+	},
+	{
+		"abbr": "ICECI-INTENT",
+		"shape": "0.0882",
+		"size": "115",
+		"top5": ""
+	},
+	{
+		"abbr": "ICECI-MECHANISM",
+		"shape": "0.1447",
+		"size": "1713",
+		"top5": ""
+	},
+	{
+		"abbr": "ICECI-PLACE_OF_OCCURRENCE",
+		"shape": "0.2259",
+		"size": "697",
+		"top5": ""
+	},
+	{
+		"abbr": "ICECI-SUBSTANCE_USE",
+		"shape": "0",
+		"size": "115",
+		"top5": ""
+	},
+	{
+		"abbr": "ICF",
+		"shape": "0.6254",
+		"size": "28475",
+		"top5": "http://who.int/icd#clamlReferences http://who.int/icd#icdTitle http://who.int/icd#exclusion http://who.int/icd#inclusion"
+	},
+	{
+		"abbr": "ICF-D1",
+		"shape": "0.1346",
+		"size": "9899",
+		"top5": "http://who.int/icf#icdTitle http://who.int/icf#exclusion http://who.int/icf#inclusion"
+	},
+	{
+		"abbr": "ICF-D2",
+		"shape": "0.1342",
+		"size": "9873",
+		"top5": "http://who.int/icf#inclusion http://who.int/icf#icdTitle http://who.int/icf#exclusion"
+	},
+	{
+		"abbr": "ICF-D3",
+		"shape": "0.136",
+		"size": "9984",
+		"top5": "http://who.int/icf#icdTitle http://who.int/icf#inclusion"
+	},
+	{
+		"abbr": "ICF-D4",
+		"shape": "0.1595",
+		"size": "10394",
+		"top5": "http://who.int/icf#inclusion http://who.int/icf#icdTitle http://who.int/icf#exclusion"
+	},
+	{
+		"abbr": "ICF-D5",
+		"shape": "0.1367",
+		"size": "9943",
+		"top5": "http://who.int/icf#icdTitle http://who.int/icf#inclusion http://who.int/icf#exclusion"
+	},
+	{
+		"abbr": "ICF-D6",
+		"shape": "0.1444",
+		"size": "10056",
+		"top5": "http://who.int/icf#icdTitle http://who.int/icf#inclusion http://who.int/icf#exclusion"
+	},
+	{
+		"abbr": "ICF-D7",
+		"shape": "0.1378",
+		"size": "10027",
+		"top5": "http://who.int/icf#icdTitle http://who.int/icf#inclusion"
+	},
+	{
+		"abbr": "ICF-D8",
+		"shape": "0.1336",
+		"size": "9908",
+		"top5": "http://who.int/icf#icdTitle http://who.int/icf#exclusion http://who.int/icf#inclusion"
+	},
+	{
+		"abbr": "ICF-D810-D839",
+		"shape": "0.1248",
+		"size": "9713",
+		"top5": "http://who.int/icf#icdTitle"
+	},
+	{
+		"abbr": "ICF-D840-D859",
+		"shape": "0.1287",
+		"size": "9781",
+		"top5": "http://who.int/icf#icdTitle http://who.int/icf#exclusion http://who.int/icf#inclusion"
+	},
+	{
+		"abbr": "ICF-D840-D859_D860-D879",
+		"shape": "0.1313",
+		"size": "9845",
+		"top5": "http://who.int/icf#icdTitle http://who.int/icf#exclusion http://who.int/icf#inclusion"
+	},
+	{
+		"abbr": "ICF-D860-D879",
+		"shape": "0.1257",
+		"size": "9728",
+		"top5": "http://who.int/icf#icdTitle http://who.int/icf#inclusion"
+	},
+	{
+		"abbr": "ICF-D9",
+		"shape": "0.1331",
+		"size": "9845",
+		"top5": "http://who.int/icf#exclusion http://who.int/icf#icdTitle http://who.int/icf#inclusion"
+	},
+	{
+		"abbr": "ICF-NOCODELABEL",
+		"shape": "0.6254",
+		"size": "26977",
+		"top5": "http://who.int/icd#clamlReferences http://who.int/icd#icdTitle http://who.int/icd#exclusion http://who.int/icd#inclusion"
+	},
+	{
+		"abbr": "ICNP",
+		"shape": "0",
+		"size": "141481",
+		"top5": ""
+	},
+	{
+		"abbr": "ICPC",
+		"shape": "0",
+		"size": "8581",
+		"top5": ""
+	},
+	{
+		"abbr": "ICPC2P",
+		"shape": "1",
+		"size": "94630",
+		"top5": "http://purl.bioontology.org/ontology/ICPC2P/replaced_by"
+	},
+	{
+		"abbr": "ICPS",
+		"shape": "0.3687",
+		"size": "10203",
+		"top5": "http://www.ICPS/ontologies/Anatomy#hasAnatomicalPart http://www.ICPS/ontologies/Anatomy#isAnatomicalPartOf http://www.ICPS/ontologies/Anatomy#isAnatomicalPartOfDirectly http://www.ICPS/ontologies/Anatomy#hasAnatomicalPartDirectly http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "IDO",
+		"shape": "0.0508",
+		"size": "7379",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000412"
+	},
+	{
+		"abbr": "IDOBRU",
+		"shape": "0.1468",
+		"size": "23877",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+	},
+	{
+		"abbr": "IDODEN",
+		"shape": "0.0036",
+		"size": "38655",
+		"top5": "http://www.w3.org/2002/07/owl#imports http://purl.obolibrary.org/obo/IAO_0000412"
+	},
+	{
+		"abbr": "IDOMAL",
+		"shape": "0.0569",
+		"size": "37978",
+		"top5": ""
+	},
+	{
+		"abbr": "IDQA",
+		"shape": "0.3182",
+		"size": "1206",
+		"top5": "http://www.owl-ontologies.com/unnamed.owl#_IsUsedFor http://www.owl-ontologies.com/unnamed.owl#_HasInformationQualityDimension http://www.semanticweb.org/ontologies/2011/4/Ontology1306226370763.owl#OffersLightSource http://www.w3.org/2002/07/owl#sameAs http://www.owl-ontologies.com/unnamed.owl#_UseMetricType"
+	},
+	{
+		"abbr": "IEV",
+		"shape": "0",
+		"size": "47203",
+		"top5": ""
+	},
+	{
+		"abbr": "IFAR",
+		"shape": "0",
+		"size": "16086",
+		"top5": ""
+	},
+	{
+		"abbr": "IMGT",
+		"shape": "0.0807",
+		"size": "10028",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+	},
+	{
+		"abbr": "IMMDIS",
+		"shape": "0",
+		"size": "20643",
+		"top5": ""
+	},
+	{
+		"abbr": "IMR",
+		"shape": "0",
+		"size": "132298",
+		"top5": ""
+	},
+	{
+		"abbr": "INO",
+		"shape": "0.1115",
+		"size": "8571",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000114 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000412 http://purl.obolibrary.org/obo/IAO_0000231"
+	},
+	{
+		"abbr": "IXNO",
+		"shape": "0.5979",
+		"size": "1237",
+		"top5": ""
+	},
+	{
+		"abbr": "JERM",
+		"shape": "0.0477",
+		"size": "1730",
+		"top5": "http://www.mygrid.org.uk/ontology/JERMOntology#investigates"
+	},
+	{
+		"abbr": "JOURNAL-TEST",
+		"shape": "0",
+		"size": "34",
+		"top5": ""
+	},
+	{
+		"abbr": "K2P",
+		"shape": "0.04",
+		"size": "51",
+		"top5": ""
+	},
+	{
+		"abbr": "KISAO",
+		"shape": "0",
+		"size": "6516",
+		"top5": ""
+	},
+	{
+		"abbr": "LDA",
+		"shape": "0",
+		"size": "295",
+		"top5": ""
+	},
+	{
+		"abbr": "LHN",
+		"shape": "0",
+		"size": "2931",
+		"top5": ""
+	},
+	{
+		"abbr": "LIPRO",
+		"shape": "0",
+		"size": "15406",
+		"top5": ""
+	},
+	{
+		"abbr": "LNC",
+		"shape": "0.9228",
+		"size": "4037280",
+		"top5": "http://purl.bioontology.org/ontology/LNC/has_challenge http://purl.bioontology.org/ontology/LNC/has_scale http://purl.bioontology.org/ontology/LNC/has_system http://purl.bioontology.org/ontology/LNC/has_time_aspect http://purl.bioontology.org/ontology/LNC/has_property"
+	},
+	{
+		"abbr": "MA",
+		"shape": "0",
+		"size": "21962",
+		"top5": ""
+	},
+	{
+		"abbr": "MAO",
+		"shape": "0",
+		"size": "1920",
+		"top5": ""
+	},
+	{
+		"abbr": "MAT",
+		"shape": "0",
+		"size": "4891",
+		"top5": ""
+	},
+	{
+		"abbr": "MCBCC",
+		"shape": "0",
+		"size": "15681",
+		"top5": ""
+	},
+	{
+		"abbr": "MCCL",
+		"shape": "0",
+		"size": "20689",
+		"top5": ""
+	},
+	{
+		"abbr": "MCCV",
+		"shape": "0",
+		"size": "264",
+		"top5": ""
+	},
+	{
+		"abbr": "MCV",
+		"shape": "0",
+		"size": "3640",
+		"top5": ""
+	},
+	{
+		"abbr": "MDDB",
+		"shape": "NaN",
+		"size": "76883",
+		"top5": ""
+	},
+	{
+		"abbr": "MDR",
+		"shape": "0.9771",
+		"size": "1774258",
+		"top5": "http://purl.bioontology.org/ontology/MDR/member_of_cluster http://purl.bioontology.org/ontology/MDR/SIB http://purl.bioontology.org/ontology/MDR/classifies http://purl.bioontology.org/ontology/MDR/has_member http://purl.bioontology.org/ontology/MDR/mth_expanded_form_of"
+	},
+	{
+		"abbr": "MEDLINEPLUS",
+		"shape": "0.9806",
+		"size": "94291",
+		"top5": "http://purl.bioontology.org/ontology/MEDLINEPLUS/SIB"
+	},
+	{
+		"abbr": "MEDO",
+		"shape": "0",
+		"size": "441",
+		"top5": ""
+	},
+	{
+		"abbr": "MEGO",
+		"shape": "0.3256",
+		"size": "5064",
+		"top5": ""
+	},
+	{
+		"abbr": "MF",
+		"shape": "0.1935",
+		"size": "12310",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://www.w3.org/2002/07/owl#imports http://www.w3.org/2002/07/owl#equivalentClass"
+	},
+	{
+		"abbr": "MFO",
+		"shape": "0",
+		"size": "34859",
+		"top5": ""
+	},
+	{
+		"abbr": "MFOEM",
+		"shape": "0.1664",
+		"size": "13517",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://www.w3.org/2002/07/owl#imports http://www.w3.org/2002/07/owl#equivalentClass"
+	},
+	{
+		"abbr": "MHC",
+		"shape": "0.0591",
+		"size": "1025",
+		"top5": ""
+	},
+	{
+		"abbr": "MI",
+		"shape": "0",
+		"size": "19459",
+		"top5": ""
+	},
+	{
+		"abbr": "MIRNAO",
+		"shape": "0",
+		"size": "3555",
+		"top5": ""
+	},
+	{
+		"abbr": "MIRO",
+		"shape": "0.0545",
+		"size": "58909",
+		"top5": ""
+	},
+	{
+		"abbr": "MIXS",
+		"shape": "0.9437",
+		"size": "784",
+		"top5": "http://purl.org/dc/terms/replaces http://rs.tdwg.org/dwc/terms/attributes/organizedInClass"
+	},
+	{
+		"abbr": "MMO",
+		"shape": "0",
+		"size": "4473",
+		"top5": ""
+	},
+	{
+		"abbr": "MO",
+		"shape": "0.19",
+		"size": "5492",
+		"top5": "http://mged.sourceforge.net/ontologies/MGEDOntology.owl#deprecation_replacement_term http://mged.sourceforge.net/ontologies/MGEDOntology.owl#deprecated_from_version http://mged.sourceforge.net/ontologies/MGEDOntology.owl#deprecation_old_parent http://mged.sourceforge.net/ontologies/MGEDOntology.owl#has_reason_for_deprecation http://mged.sourceforge.net/ontologies/MGEDOntology.owl#was_replaced_by"
+	},
+	{
+		"abbr": "MOD",
+		"shape": "0",
+		"size": "51117",
+		"top5": ""
+	},
+	{
+		"abbr": "MP",
+		"shape": "0.0366",
+		"size": "130332",
+		"top5": ""
+	},
+	{
+		"abbr": "MPATH",
+		"shape": "0.0012",
+		"size": "10167",
+		"top5": ""
+	},
+	{
+		"abbr": "MS",
+		"shape": "0",
+		"size": "25567",
+		"top5": ""
+	},
+	{
+		"abbr": "MSH",
+		"shape": "0.9727",
+		"size": "7970325",
+		"top5": "http://purl.bioontology.org/ontology/MSH/QB http://purl.bioontology.org/ontology/MSH/SIB http://purl.bioontology.org/ontology/MSH/mapped_from http://purl.bioontology.org/ontology/MSH/has_mapping_qualifier http://purl.bioontology.org/ontology/MSH/RO"
+	},
+	{
+		"abbr": "MTHCH",
+		"shape": "0",
+		"size": "7302",
+		"top5": ""
+	},
+	{
+		"abbr": "NATPRO",
+		"shape": "0.124",
+		"size": "345384",
+		"top5": "http://www.owl-ontologies.com/NPOntology.owl#hasSource http://www.owl-ontologies.com/NPOntology.owl#hasAgent http://www.owl-ontologies.com/NPOntology.owl#hasMeasurement http://www.owl-ontologies.com/NPOntology.owl#hasTarget http://www.owl-ontologies.com/NPOntology.owl#isRepositoryFor"
+	},
+	{
+		"abbr": "NBO",
+		"shape": "0.1213",
+		"size": "9640",
+		"top5": ""
+	},
+	{
+		"abbr": "NCBI_NMO",
+		"shape": "0.4977",
+		"size": "4889",
+		"top5": ""
+	},
+	{
+		"abbr": "NCBI_NMOSP",
+		"shape": "0.0061",
+		"size": "9584",
+		"top5": ""
+	},
+	{
+		"abbr": "NCBI_NMOSP_x1",
+		"shape": "0.2921",
+		"size": "7248",
+		"top5": ""
+	},
+	{
+		"abbr": "NCBI_NMOSP_x2",
+		"shape": "0.0056",
+		"size": "9951",
+		"top5": ""
+	},
+	{
+		"abbr": "NCBITAXON",
+		"shape": "0.4998",
+		"size": "4667378",
+		"top5": ""
+	},
+	{
+		"abbr": "NCBO_TEST_NOTES",
+		"shape": "0",
+		"size": "53",
+		"top5": ""
+	},
+	{
+		"abbr": "NCIT",
+		"shape": "0.4441",
+		"size": "1694993",
+		"top5": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#A6 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#A5 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#A11 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#A10 http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#A2"
+	},
+	{
+		"abbr": "NCIT-ACTIVITY",
+		"shape": "0",
+		"size": "57225",
+		"top5": ""
+	},
+	{
+		"abbr": "NDDF",
+		"shape": "1",
+		"size": "490514",
+		"top5": "http://purl.bioontology.org/ontology/NDDF/dose_form_of http://purl.bioontology.org/ontology/NDDF/has_ingredient http://purl.bioontology.org/ontology/NDDF/ingredient_of"
+	},
+	{
+		"abbr": "NDFRT",
+		"shape": "0.9035",
+		"size": "1166537",
+		"top5": "http://purl.bioontology.org/ontology/NDFRT/has_product_component http://purl.bioontology.org/ontology/NDFRT/has_dose_form http://purl.bioontology.org/ontology/NDFRT/has_ingredient http://purl.bioontology.org/ontology/NDFRT/ingredient_of http://purl.bioontology.org/ontology/NDFRT/has_physiologic_effect"
+	},
+	{
+		"abbr": "NDF-RT",
+		"shape": "0.4109",
+		"size": "1440647",
+		"top5": "http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#Ingredient_1 http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#Ingredient_2"
+	},
+	{
+		"abbr": "NEMO",
+		"shape": "0.0504",
+		"size": "41014",
+		"top5": "http://purl.obolibrary.org/obo/OBI_0000298 http://purl.org/obo/owl/OBO_REL#role_of http://purl.bioontology.org/NEMO/ontology/NEMO.owl#NEMO_3427000 http://purl.bioontology.org/NEMO/ontology/NEMO.owl#NEMO_2532000 http://purl.obolibrary.org/obo/OBI_0000294"
+	},
+	{
+		"abbr": "NEOMARK",
+		"shape": "0.0914",
+		"size": "3223",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412"
+	},
+	{
+		"abbr": "NEOMARKONTOLOGY",
+		"shape": "0",
+		"size": "6243",
+		"top5": ""
+	},
+	{
+		"abbr": "NEUMORE",
+		"shape": "0",
+		"size": "92",
+		"top5": ""
+	},
+	{
+		"abbr": "NEUROFMA",
+		"shape": "0.2975",
+		"size": "62239",
+		"top5": "http://sig.biostr.washington.edu/fma3.0#input_from http://sig.biostr.washington.edu/fma3.0#sends_output_to http://sig.biostr.washington.edu/fma3.0#receives_input_from http://sig.biostr.washington.edu/fma3.0#constitutional_part"
+	},
+	{
+		"abbr": "NIAID-GSC-BRC",
+		"shape": "0.4656",
+		"size": "3216",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412"
+	},
+	{
+		"abbr": "NIF",
+		"shape": "0.0066",
+		"size": "2502314",
+		"top5": "http://www.geneontology.org/formats/oboInOwl#inSubset http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000114 http://purl.obolibrary.org/obo/pr#only_in_taxon http://purl.obolibrary.org/obo/IAO_0000412"
+	},
+	{
+		"abbr": "NIF_CELL",
+		"shape": "0.0521",
+		"size": "47505",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000114 http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "NIF_DYSFUNCTION",
+		"shape": "0.015",
+		"size": "242368",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000114 http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "NIF-RTH",
+		"shape": "0",
+		"size": "2165",
+		"top5": ""
+	},
+	{
+		"abbr": "NIF-SUBCELL",
+		"shape": "0.0084",
+		"size": "37441",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+	},
+	{
+		"abbr": "NIGO",
+		"shape": "0",
+		"size": "86537",
+		"top5": ""
+	},
+	{
+		"abbr": "NMOABA",
+		"shape": "0",
+		"size": "4912",
+		"top5": ""
+	},
+	{
+		"abbr": "NMR",
+		"shape": "0",
+		"size": "1883",
+		"top5": ""
+	},
+	{
+		"abbr": "NONRCTONTOLOGY",
+		"shape": "0.0014",
+		"size": "1502",
+		"top5": ""
+	},
+	{
+		"abbr": "NPO",
+		"shape": "0.0002",
+		"size": "36780",
+		"top5": ""
+	},
+	{
+		"abbr": "NTDO",
+		"shape": "0.0047",
+		"size": "10224",
+		"top5": ""
+	},
+	{
+		"abbr": "OAE",
+		"shape": "0.4234",
+		"size": "57696",
+		"top5": "http://purl.obolibrary.org/obo/uberon#present_in_taxon http://purl.obolibrary.org/obo/uberon#dubious_for_taxon http://purl.obolibrary.org/obo/uberon#spatially_disjoint_from http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+	},
+	{
+		"abbr": "OBI",
+		"shape": "0.1263",
+		"size": "79362",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000231 http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000136 http://usefulinc.com/ns/doap#bug-database"
+	},
+	{
+		"abbr": "OBI_IEDB_VIEW",
+		"shape": "0.123",
+		"size": "82142",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000114 http://purl.obolibrary.org/obo/IAO_0000231 http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000136"
+	},
+	{
+		"abbr": "OBI-DEVICE",
+		"shape": "0",
+		"size": "17503",
+		"top5": ""
+	},
+	{
+		"abbr": "OBI-FGED",
+		"shape": "0.4848",
+		"size": "27152",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412"
+	},
+	{
+		"abbr": "OBIWS",
+		"shape": "0.2077",
+		"size": "3463",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+	},
+	{
+		"abbr": "OBO_REL",
+		"shape": "0",
+		"size": "262",
+		"top5": ""
+	},
+	{
+		"abbr": "OBOE",
+		"shape": "0.0065",
+		"size": "872",
+		"top5": ""
+	},
+	{
+		"abbr": "OBOE-SBC",
+		"shape": "0.0714",
+		"size": "7059",
+		"top5": "http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "OCRE",
+		"shape": "0.0238",
+		"size": "5139",
+		"top5": "http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "ODGI",
+		"shape": "0.4392",
+		"size": "4758",
+		"top5": "http://purl.obolibrary.org/obo/ODGI.owl#hasGenomicSite http://purl.obolibrary.org/obo/ODGI.owl#hasClassifiedGroup http://purl.obolibrary.org/obo/ODGI.owl#isRelationshipWith http://purl.obolibrary.org/obo/ODGI.owl#hasStudyPopulation http://purl.obolibrary.org/obo/ODGI.owl#isFrequencyIn"
+	},
+	{
+		"abbr": "OGI",
+		"shape": "0.3272",
+		"size": "8631",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000114 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000412 http://purl.obolibrary.org/obo/OGI.owl#isOverlapStartWith http://www.w3.org/2002/07/owl#equivalentClass"
+	},
+	{
+		"abbr": "OGMD",
+		"shape": "0",
+		"size": "662",
+		"top5": ""
+	},
+	{
+		"abbr": "OGMD_OWL",
+		"shape": "0",
+		"size": "2618",
+		"top5": ""
+	},
+	{
+		"abbr": "OGMS",
+		"shape": "0.1353",
+		"size": "1550",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+	},
+	{
+		"abbr": "OGR",
+		"shape": "0",
+		"size": "157",
+		"top5": ""
+	},
+	{
+		"abbr": "OGSF",
+		"shape": "0.4384",
+		"size": "10753",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000114 http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/OGI.owl#isOverlapStartWith http://www.w3.org/2002/07/owl#equivalentClass"
+	},
+	{
+		"abbr": "OMIM",
+		"shape": "0.8095",
+		"size": "754767",
+		"top5": "http://purl.bioontology.org/ontology/OMIM/allelic_variant_of http://purl.bioontology.org/ontology/OMIM/has_allelic_variant http://purl.bioontology.org/ontology/OMIM/has_manifestation"
+	},
+	{
+		"abbr": "OMIT",
+		"shape": "0.4016",
+		"size": "4082",
+		"top5": "http://www.semanticweb.org/ontologies/2010/2/MiRNA-Ontology.owl#involvedInTumor http://www.semanticweb.org/ontologies/2010/2/MiRNA-Ontology.owl#fromTaxon http://www.semanticweb.org/ontologies/2010/2/MiRNA-Ontology.owl#downRegulateEvent http://www.semanticweb.org/ontologies/2010/2/MiRNA-Ontology.owl#involvedInEvent http://www.semanticweb.org/ontologies/2010/2/MiRNA-Ontology.owl#hasTarget"
+	},
+	{
+		"abbr": "OMRSE",
+		"shape": "0.1781",
+		"size": "1395",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412"
+	},
+	{
+		"abbr": "ONSTR",
+		"shape": "0.3083",
+		"size": "7142",
+		"top5": "http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "ONTODM-CORE",
+		"shape": "0.1762",
+		"size": "7426",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000231 http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "ONTODT",
+		"shape": "0.2992",
+		"size": "2857",
+		"top5": "http://www.obofoundry.org/ro/ro.owl#has_part http://www.w3.org/2002/07/owl#topObjectProperty"
+	},
+	{
+		"abbr": "ONTOKBCF",
+		"shape": "0",
+		"size": "3305",
+		"top5": ""
+	},
+	{
+		"abbr": "ONTOMA",
+		"shape": "0.0075",
+		"size": "1308",
+		"top5": ""
+	},
+	{
+		"abbr": "ONTOORPHA",
+		"shape": "0",
+		"size": "388169",
+		"top5": ""
+	},
+	{
+		"abbr": "ONTOPNEUMO",
+		"shape": "0",
+		"size": "6721",
+		"top5": ""
+	},
+	{
+		"abbr": "OOEVV",
+		"shape": "0.0935",
+		"size": "860",
+		"top5": ""
+	},
+	{
+		"abbr": "OOEVV-TRACTTRACE",
+		"shape": "0.2197",
+		"size": "955",
+		"top5": "http://bmkeg.isi.edu/ooevv/hierarchicalValues http://bmkeg.isi.edu/ooevv/exptVbs http://purl.obolibrary.org/obo/IAO_0000114 http://bmkeg.isi.edu/ooevv/nominalValues http://bmkeg.isi.edu/ooevv/falseValue"
+	},
+	{
+		"abbr": "OOEVV-VACCINE",
+		"shape": "0.3762",
+		"size": "1523",
+		"top5": "http://bmkeg.isi.edu/ooevv/scale http://purl.obolibrary.org/obo/IAO_0000114 http://bmkeg.isi.edu/ooevv/measures http://bmkeg.isi.edu/ooevv/falseValue http://bmkeg.isi.edu/ooevv/trueValue"
+	},
+	{
+		"abbr": "OPB.PROPERTIES",
+		"shape": "0",
+		"size": "4425",
+		"top5": ""
+	},
+	{
+		"abbr": "OPE",
+		"shape": "0",
+		"size": "4644",
+		"top5": ""
+	},
+	{
+		"abbr": "OPL",
+		"shape": "0.0562",
+		"size": "5452",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000231"
+	},
+	{
+		"abbr": "PATHLEX",
+		"shape": "0",
+		"size": "9168",
+		"top5": ""
+	},
+	{
+		"abbr": "PATO",
+		"shape": "0.0011",
+		"size": "27540",
+		"top5": ""
+	},
+	{
+		"abbr": "PD_ST",
+		"shape": "0",
+		"size": "383",
+		"top5": ""
+	},
+	{
+		"abbr": "PDQ",
+		"shape": "0.9059",
+		"size": "124212",
+		"top5": "http://purl.bioontology.org/ontology/PDQ/component_of http://purl.bioontology.org/ontology/PDQ/associated_disease http://purl.bioontology.org/ontology/PDQ/associated_genetic_condition"
+	},
+	{
+		"abbr": "PEDTERM",
+		"shape": "0",
+		"size": "99",
+		"top5": ""
+	},
+	{
+		"abbr": "PEO",
+		"shape": "0",
+		"size": "1051",
+		"top5": ""
+	},
+	{
+		"abbr": "PFO",
+		"shape": "0",
+		"size": "174",
+		"top5": ""
+	},
+	{
+		"abbr": "PHARE",
+		"shape": "0.0101",
+		"size": "2801",
+		"top5": ""
+	},
+	{
+		"abbr": "PHENOSCAPE-EXT",
+		"shape": "0.0863",
+		"size": "534971",
+		"top5": "http://purl.obolibrary.org/obo/UBPROP_0000101 http://purl.obolibrary.org/obo/uberon#present_in_taxon http://purl.obolibrary.org/obo/uberon#sexually_homologous_to http://purl.obolibrary.org/obo/RO_0002161 http://purl.obolibrary.org/obo/uberon#dubious_for_taxon"
+	},
+	{
+		"abbr": "PHENX",
+		"shape": "0",
+		"size": "3511",
+		"top5": ""
+	},
+	{
+		"abbr": "PHYLONT",
+		"shape": "0.0098",
+		"size": "1070",
+		"top5": ""
+	},
+	{
+		"abbr": "PIZZA-EXAMPLE",
+		"shape": "0",
+		"size": "2431",
+		"top5": ""
+	},
+	{
+		"abbr": "PKO",
+		"shape": "0",
+		"size": "3127",
+		"top5": ""
+	},
+	{
+		"abbr": "PMA",
+		"shape": "0",
+		"size": "12544",
+		"top5": ""
+	},
+	{
+		"abbr": "PMR",
+		"shape": "0",
+		"size": "481",
+		"top5": ""
+	},
+	{
+		"abbr": "PO",
+		"shape": "0.3139",
+		"size": "56375",
+		"top5": ""
+	},
+	{
+		"abbr": "PO_PAE",
+		"shape": "0.3168",
+		"size": "41772",
+		"top5": ""
+	},
+	{
+		"abbr": "PO_PSDS",
+		"shape": "0.1469",
+		"size": "9524",
+		"top5": ""
+	},
+	{
+		"abbr": "POL",
+		"shape": "0",
+		"size": "236",
+		"top5": ""
+	},
+	{
+		"abbr": "PORO",
+		"shape": "0",
+		"size": "9237",
+		"top5": ""
+	},
+	{
+		"abbr": "PR",
+		"shape": "0.0001",
+		"size": "834255",
+		"top5": ""
+	},
+	{
+		"abbr": "PRO-ONT",
+		"shape": "0",
+		"size": "1467",
+		"top5": ""
+	},
+	{
+		"abbr": "PROPREO",
+		"shape": "0.0324",
+		"size": "2822",
+		"top5": "http://lsdis.cs.uga.edu/projects/glycomics/propreo#has_material_part http://lsdis.cs.uga.edu/projects/glycomics/propreo#is_described_by http://lsdis.cs.uga.edu/projects/glycomics/propreo#has_part"
+	},
+	{
+		"abbr": "PROVENANCE",
+		"shape": "0",
+		"size": "18",
+		"top5": ""
+	},
+	{
+		"abbr": "PROV-O",
+		"shape": "0.6419",
+		"size": "2020",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#seeAlso http://www.w3.org/ns/prov#qualifiedForm http://www.w3.org/ns/prov#unqualifiedForm http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+	},
+	{
+		"abbr": "PSEUDO",
+		"shape": "0",
+		"size": "143",
+		"top5": ""
+	},
+	{
+		"abbr": "PVONTO",
+		"shape": "0",
+		"size": "92",
+		"top5": ""
+	},
+	{
+		"abbr": "PW",
+		"shape": "0",
+		"size": "15137",
+		"top5": ""
+	},
+	{
+		"abbr": "QIBO",
+		"shape": "0",
+		"size": "3156",
+		"top5": ""
+	},
+	{
+		"abbr": "RADLEX_OWL",
+		"shape": "0.3646",
+		"size": "172310",
+		"top5": "http://bioontology.org/projects/ontologies/radlex/radlexOwl#Has_Part http://bioontology.org/projects/ontologies/radlex/radlexOwl#Is_A http://bioontology.org/projects/ontologies/radlex/radlexOwl#Part_Of http://bioontology.org/projects/ontologies/radlex/radlexOwl#Contained_In http://bioontology.org/projects/ontologies/radlex/radlexOwl#Has_Branch"
+	},
+	{
+		"abbr": "RCD",
+		"shape": "0.9183",
+		"size": "4229895",
+		"top5": ""
+	},
+	{
+		"abbr": "RCTONTOLOGY",
+		"shape": "0.0011",
+		"size": "2091",
+		"top5": ""
+	},
+	{
+		"abbr": "REPO",
+		"shape": "0",
+		"size": "793",
+		"top5": ""
+	},
+	{
+		"abbr": "REX",
+		"shape": "0",
+		"size": "5598",
+		"top5": ""
+	},
+	{
+		"abbr": "RH-MESH",
+		"shape": "0",
+		"size": "1262119",
+		"top5": ""
+	},
+	{
+		"abbr": "RID",
+		"shape": "0.4789",
+		"size": "373165",
+		"top5": "http://bioontology.org/projects/ontologies/radlex/radlexOwlDlComponent#Part_Of http://bioontology.org/projects/ontologies/radlex/radlexOwlDlComponent#Is_A http://bioontology.org/projects/ontologies/radlex/radlexOwlDlComponent#Regional_Part_Of http://bioontology.org/projects/ontologies/radlex/radlexOwlDlComponent#Branch_Of http://bioontology.org/projects/ontologies/radlex/radlexOwlDlComponent#Has_Member"
+	},
+	{
+		"abbr": "RNAO",
+		"shape": "0.0389",
+		"size": "2973",
+		"top5": ""
+	},
+	{
+		"abbr": "ROLEO",
+		"shape": "0",
+		"size": "4101",
+		"top5": ""
+	},
+	{
+		"abbr": "RPO",
+		"shape": "0",
+		"size": "24093",
+		"top5": ""
+	},
+	{
+		"abbr": "RS",
+		"shape": "0",
+		"size": "28799",
+		"top5": ""
+	},
+	{
+		"abbr": "RXNORM",
+		"shape": "0.9185",
+		"size": "5832652",
+		"top5": "http://purl.bioontology.org/ontology/RXNORM/has_tradename http://purl.bioontology.org/ontology/RXNORM/has_ingredient http://purl.bioontology.org/ontology/RXNORM/has_related_form http://purl.bioontology.org/ontology/RXNORM/related_form_of http://purl.bioontology.org/ontology/RXNORM/consists_of"
+	},
+	{
+		"abbr": "SAO",
+		"shape": "0",
+		"size": "11036",
+		"top5": ""
+	},
+	{
+		"abbr": "SBO",
+		"shape": "0",
+		"size": "5129",
+		"top5": ""
+	},
+	{
+		"abbr": "SBRO",
+		"shape": "0",
+		"size": "738",
+		"top5": ""
+	},
+	{
+		"abbr": "SCIRES",
+		"shape": "0",
+		"size": "142",
+		"top5": ""
+	},
+	{
+		"abbr": "SDO",
+		"shape": "0.0196",
+		"size": "14031",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+	},
+	{
+		"abbr": "SEMPHYSKB-HUMAN",
+		"shape": "0",
+		"size": "3338",
+		"top5": ""
+	},
+	{
+		"abbr": "SEP",
+		"shape": "0",
+		"size": "3125",
+		"top5": ""
+	},
+	{
+		"abbr": "SHR",
+		"shape": "0",
+		"size": "1327",
+		"top5": ""
+	},
+	{
+		"abbr": "SIO",
+		"shape": "0",
+		"size": "10087",
+		"top5": ""
+	},
+	{
+		"abbr": "SITBAC",
+		"shape": "0.2345",
+		"size": "4971",
+		"top5": "http://www.semanticweb.org/ontologies/2008/1/Ontology1204037102846.owl#hasR2RRelation http://www.semanticweb.org/ontologies/2008/1/Ontology1204037102846.owl#hasTask http://www.semanticweb.org/ontologies/2008/1/Ontology1204037102846.owl#hasStatus http://www.semanticweb.org/ontologies/2008/1/Ontology1204037102846.owl#hasRole http://www.semanticweb.org/ontologies/2008/1/Ontology1204037102846.owl#hasWorkingDepartment"
+	},
+	{
+		"abbr": "SKOS",
+		"shape": "0",
+		"size": "22",
+		"top5": ""
+	},
+	{
+		"abbr": "SMD_NPLSM",
+		"shape": "0",
+		"size": "34450",
+		"top5": ""
+	},
+	{
+		"abbr": "SMD_NPLSM_BRST",
+		"shape": "0",
+		"size": "19875",
+		"top5": ""
+	},
+	{
+		"abbr": "SNMD_BDY",
+		"shape": "0",
+		"size": "533127",
+		"top5": ""
+	},
+	{
+		"abbr": "SNOMEDCT",
+		"shape": "0.7222",
+		"size": "13644855",
+		"top5": "http://purl.bioontology.org/ontology/SNOMEDCT/has_method http://purl.bioontology.org/ontology/SNOMEDCT/has_priority http://purl.bioontology.org/ontology/SNOMEDCT/has_direct_procedure_site http://purl.bioontology.org/ontology/SNOMEDCT/has_laterality http://purl.bioontology.org/ontology/SNOMEDCT/same_as"
+	},
+	{
+		"abbr": "SNOMEDCT-ANAT",
+		"shape": "0",
+		"size": "688410",
+		"top5": ""
+	},
+	{
+		"abbr": "SNOMEDCT-MAS",
+		"shape": "0",
+		"size": "123206",
+		"top5": ""
+	},
+	{
+		"abbr": "SNOMEDCT-ORG",
+		"shape": "0",
+		"size": "452889",
+		"top5": ""
+	},
+	{
+		"abbr": "SNOMEDCT-TF",
+		"shape": "0",
+		"size": "88715",
+		"top5": ""
+	},
+	{
+		"abbr": "SNOMED-ETHNIC-GROUP",
+		"shape": "0",
+		"size": "3623",
+		"top5": ""
+	},
+	{
+		"abbr": "SNPO",
+		"shape": "0.0267",
+		"size": "44906",
+		"top5": "http://www.geneontology.org/formats/oboInOwl#inSubset http://www.geneontology.org/formats/oboInOwl#replacedBy"
+	},
+	{
+		"abbr": "SO",
+		"shape": "0.0591",
+		"size": "31698",
+		"top5": ""
+	},
+	{
+		"abbr": "SOFA",
+		"shape": "0",
+		"size": "3589",
+		"top5": ""
+	},
+	{
+		"abbr": "SOPHARM",
+		"shape": "0.007",
+		"size": "375098",
+		"top5": "http://www.geneontology.org/formats/oboInOwl#consider http://www.geneontology.org/formats/oboInOwl#inSubset http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://www.loria.fr/~coulet/ontology/snpontology/version1.5/snpontology_full.owl#composesSequence http://www.w3.org/2002/07/owl#sameAs"
+	},
+	{
+		"abbr": "SOY",
+		"shape": "0.0252",
+		"size": "35716",
+		"top5": ""
+	},
+	{
+		"abbr": "SPD",
+		"shape": "0",
+		"size": "7185",
+		"top5": ""
+	},
+	{
+		"abbr": "SPO",
+		"shape": "0",
+		"size": "3195",
+		"top5": ""
+	},
+	{
+		"abbr": "SPTO",
+		"shape": "0.651",
+		"size": "4579",
+		"top5": ""
+	},
+	{
+		"abbr": "SSO",
+		"shape": "0.6449",
+		"size": "2225",
+		"top5": "http://www.medicine.mcgill.ca/epidemiology/buckeridge/syndromes.owl#isSynonymousTo http://www.medicine.mcgill.ca/epidemiology/buckeridge/syndromes.owl#isInSensitiveDefinitionOf http://www.medicine.mcgill.ca/epidemiology/buckeridge/syndromes.owl#isExactConceptFor http://www.medicine.mcgill.ca/epidemiology/buckeridge/syndromes.owl#hasSynonymousConcepts http://www.medicine.mcgill.ca/epidemiology/buckeridge/syndromes.owl#hasExactConcept"
+	},
+	{
+		"abbr": "SWEET",
+		"shape": "0.4858",
+		"size": "31922",
+		"top5": "http://sweet.jpl.nasa.gov/2.3/relaTime.owl#hasEndTime http://sweet.jpl.nasa.gov/2.3/relaSpace.owl#hasVolume http://www.w3.org/2002/07/owl#equivalentClass http://sweet.jpl.nasa.gov/2.3/relaSpace.owl#orthogonalTo http://sweet.jpl.nasa.gov/2.3/relaTime.owl#hasStartTime"
+	},
+	{
+		"abbr": "SWO",
+		"shape": "0.0175",
+		"size": "43661",
+		"top5": "http://www.obofoundry.org/ro/ro.owl#precedes http://www.w3.org/2002/07/owl#equivalentClass http://www.w3.org/2002/07/owl#topObjectProperty"
+	},
+	{
+		"abbr": "SYMP",
+		"shape": "0",
+		"size": "8090",
+		"top5": ""
+	},
+	{
+		"abbr": "SYN",
+		"shape": "0",
+		"size": "79459",
+		"top5": ""
+	},
+	{
+		"abbr": "TADS",
+		"shape": "0",
+		"size": "9749",
+		"top5": ""
+	},
+	{
+		"abbr": "TAO",
+		"shape": "0.1574",
+		"size": "45491",
+		"top5": ""
+	},
+	{
+		"abbr": "TAXRANK",
+		"shape": "0",
+		"size": "443",
+		"top5": ""
+	},
+	{
+		"abbr": "TEDDY",
+		"shape": "0",
+		"size": "15301",
+		"top5": ""
+	},
+	{
+		"abbr": "TEO",
+		"shape": "0.18",
+		"size": "9476",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000231 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://www.w3.org/2002/07/owl#propertyDisjointWith http://informatics.mayo.edu/TEO.owl#TEO_0000086 http://informatics.mayo.edu/TEO.owl#TEO_0000087"
+	},
+	{
+		"abbr": "TESTVDB",
+		"shape": "0.4471",
+		"size": "357",
+		"top5": "http://www.dbs.cs.uni-duesseldorf.de/RDF/relational.owl#hasColumn http://www.dbs.cs.uni-duesseldorf.de/RDF/relational.owl#has"
+	},
+	{
+		"abbr": "TGMA",
+		"shape": "0",
+		"size": "59152",
+		"top5": ""
+	},
+	{
+		"abbr": "THOMCAN",
+		"shape": "0",
+		"size": "418",
+		"top5": ""
+	},
+	{
+		"abbr": "TMA",
+		"shape": "0",
+		"size": "162",
+		"top5": ""
+	},
+	{
+		"abbr": "TM-CONST",
+		"shape": "NaN",
+		"size": "115",
+		"top5": ""
+	},
+	{
+		"abbr": "TM-MER",
+		"shape": "NaN",
+		"size": "165",
+		"top5": ""
+	},
+	{
+		"abbr": "TMO",
+		"shape": "0",
+		"size": "2742",
+		"top5": ""
+	},
+	{
+		"abbr": "TM-OTHER-FACTORS",
+		"shape": "NaN",
+		"size": "77",
+		"top5": ""
+	},
+	{
+		"abbr": "TM-SIGNS-AND-SYMPTS",
+		"shape": "NaN",
+		"size": "2697",
+		"top5": ""
+	},
+	{
+		"abbr": "TO",
+		"shape": "0.2264",
+		"size": "17339",
+		"top5": ""
+	},
+	{
+		"abbr": "TOK",
+		"shape": "0.0043",
+		"size": "5306",
+		"top5": ""
+	},
+	{
+		"abbr": "TOP-MENELAS",
+		"shape": "0",
+		"size": "5991",
+		"top5": ""
+	},
+	{
+		"abbr": "TRAK",
+		"shape": "0.191",
+		"size": "14247",
+		"top5": ""
+	},
+	{
+		"abbr": "TRANS",
+		"shape": "0",
+		"size": "444",
+		"top5": ""
+	},
+	{
+		"abbr": "TTO",
+		"shape": "0.2563",
+		"size": "650249",
+		"top5": ""
+	},
+	{
+		"abbr": "UBERON",
+		"shape": "0.6325",
+		"size": "369778",
+		"top5": ""
+	},
+	{
+		"abbr": "UCARE_DEMOGRAPHICS",
+		"shape": "0",
+		"size": "343",
+		"top5": ""
+	},
+	{
+		"abbr": "UCSF-ICD910CM",
+		"shape": "0",
+		"size": "808760",
+		"top5": ""
+	},
+	{
+		"abbr": "UNI-ECE",
+		"shape": "0.2318",
+		"size": "4736",
+		"top5": "http://www.semanticweb.org/ontologies/2012/2/Ontology1331685116337.owl#isTakeninTheTerm http://www.semanticweb.org/ontologies/2012/2/Ontology1331685116337.owl#IsWrittenBy http://www.semanticweb.org/ontologies/2012/2/Ontology1331685116337.owl#itsCoRequestIs"
+	},
+	{
+		"abbr": "UNITSONTOLOGY",
+		"shape": "0",
+		"size": "407",
+		"top5": ""
+	},
+	{
+		"abbr": "UO",
+		"shape": "0",
+		"size": "5229",
+		"top5": ""
+	},
+	{
+		"abbr": "VANDF",
+		"shape": "0.688",
+		"size": "667272",
+		"top5": "http://purl.bioontology.org/ontology/VANDF/ingredient_of"
+	},
+	{
+		"abbr": "VARIO",
+		"shape": "0.2204",
+		"size": "5163",
+		"top5": ""
+	},
+	{
+		"abbr": "VHOG",
+		"shape": "0.493",
+		"size": "15249",
+		"top5": ""
+	},
+	{
+		"abbr": "VIVO",
+		"shape": "0",
+		"size": "2469",
+		"top5": ""
+	},
+	{
+		"abbr": "VO",
+		"shape": "0.1372",
+		"size": "76616",
+		"top5": "http://purl.obolibrary.org/obo/IAO_0000412 http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000231 http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "VSAO",
+		"shape": "0.1577",
+		"size": "5233",
+		"top5": ""
+	},
+	{
+		"abbr": "VSO",
+		"shape": "0.3612",
+		"size": "8729",
+		"top5": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy http://purl.obolibrary.org/obo/IAO_0000412 http://purl.obolibrary.org/obo/VSO#IAO_0000412 http://www.w3.org/2002/07/owl#imports"
+	},
+	{
+		"abbr": "VT",
+		"shape": "0.1149",
+		"size": "43707",
+		"top5": ""
+	},
+	{
+		"abbr": "WBBT",
+		"shape": "0.0021",
+		"size": "105199",
+		"top5": ""
+	},
+	{
+		"abbr": "WBLS",
+		"shape": "0",
+		"size": "705",
+		"top5": ""
+	},
+	{
+		"abbr": "WBPHENOTYPE",
+		"shape": "0.0008",
+		"size": "27225",
+		"top5": ""
+	},
+	{
+		"abbr": "WHO",
+		"shape": "0.988",
+		"size": "247707",
+		"top5": "http://purl.bioontology.org/ontology/WHO/RN http://purl.bioontology.org/ontology/WHO/RB"
+	},
+	{
+		"abbr": "WSIO",
+		"shape": "0",
+		"size": "1412",
+		"top5": ""
+	},
+	{
+		"abbr": "XAO",
+		"shape": "0.3926",
+		"size": "31473",
+		"top5": ""
+	},
+	{
+		"abbr": "XCO",
+		"shape": "0.1077",
+		"size": "3923",
+		"top5": ""
+	},
+	{
+		"abbr": "XEO",
+		"shape": "0",
+		"size": "1441",
+		"top5": ""
+	},
+	{
+		"abbr": "YPO",
+		"shape": "0",
+		"size": "4146",
+		"top5": ""
+	},
+	{
+		"abbr": "ZEA",
+		"shape": "0",
+		"size": "2331",
+		"top5": ""
+	},
+	{
+		"abbr": "ZFA",
+		"shape": "0.5206",
+		"size": "76336",
+		"top5": ""
+	},
+	{
+		"abbr": "ZIP",
+		"shape": "0.0554",
+		"size": "427253",
+		"top5": "http://uwhealth.org/himc/geo/usa/#has_state http://uwhealth.org/himc/geo/usa/#has_territory"
+	}
+]

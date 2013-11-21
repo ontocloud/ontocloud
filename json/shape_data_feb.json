@@ -1,0 +1,2157 @@
+[
+	{
+		"abbr": "3.0_OWL",
+		"shape": "0.4677",
+		"size": "234452"
+	},
+	{
+		"abbr": "AAO",
+		"shape": "0.1994",
+		"size": "19114"
+	},
+	{
+		"abbr": "ABA",
+		"shape": "0",
+		"size": "9617"
+	},
+	{
+		"abbr": "ACGT",
+		"shape": "0.0002",
+		"size": "13274"
+	},
+	{
+		"abbr": "ADW",
+		"shape": "0.0149",
+		"size": "2151"
+	},
+	{
+		"abbr": "AEO",
+		"shape": "0",
+		"size": "3732"
+	},
+	{
+		"abbr": "AERO",
+		"shape": "0.2801",
+		"size": "5218"
+	},
+	{
+		"abbr": "AIR",
+		"shape": "0",
+		"size": "5528"
+	},
+	{
+		"abbr": "AMINO_ACID-ZH_CN",
+		"shape": "0",
+		"size": "1634"
+	},
+	{
+		"abbr": "AMINO-ACID",
+		"shape": "0.0044",
+		"size": "1562"
+	},
+	{
+		"abbr": "APO",
+		"shape": "0",
+		"size": "4542"
+	},
+	{
+		"abbr": "APOLLO",
+		"shape": "0",
+		"size": "9"
+	},
+	{
+		"abbr": "ATMO",
+		"shape": "0",
+		"size": "1683"
+	},
+	{
+		"abbr": "ATO",
+		"shape": "0",
+		"size": "55526"
+	},
+	{
+		"abbr": "ATOL",
+		"shape": "0",
+		"size": "27757"
+	},
+	{
+		"abbr": "BAO",
+		"shape": "0.0686",
+		"size": "11225"
+	},
+	{
+		"abbr": "BASIC-VERTEBRATE-GROSS-ANATOMY",
+		"shape": "0.0287",
+		"size": "1028"
+	},
+	{
+		"abbr": "BCGO",
+		"shape": "0.3244",
+		"size": "4180"
+	},
+	{
+		"abbr": "BDO",
+		"shape": "0.0054",
+		"size": "209058"
+	},
+	{
+		"abbr": "BFO",
+		"shape": "0",
+		"size": "467"
+	},
+	{
+		"abbr": "BHO",
+		"shape": "0",
+		"size": "6526"
+	},
+	{
+		"abbr": "BIBLIOGRAPHIC",
+		"shape": "0",
+		"size": "1012"
+	},
+	{
+		"abbr": "BILA",
+		"shape": "0.3286",
+		"size": "1250"
+	},
+	{
+		"abbr": "BIOA3V",
+		"shape": "0",
+		"size": "4291"
+	},
+	{
+		"abbr": "BIOCODE",
+		"shape": "0.3528",
+		"size": "7213"
+	},
+	{
+		"abbr": "BIOMODELS",
+		"shape": "0.0121",
+		"size": "2927013"
+	},
+	{
+		"abbr": "BIOSITEMAPIM",
+		"shape": "0",
+		"size": "230"
+	},
+	{
+		"abbr": "BIRNLEX",
+		"shape": "0",
+		"size": "40405"
+	},
+	{
+		"abbr": "BO",
+		"shape": "0.0891",
+		"size": "1528"
+	},
+	{
+		"abbr": "BODYSYSTEM",
+		"shape": "0",
+		"size": "117"
+	},
+	{
+		"abbr": "BP",
+		"shape": "0",
+		"size": "1230"
+	},
+	{
+		"abbr": "BPMETADATA",
+		"shape": "0.05",
+		"size": "2502"
+	},
+	{
+		"abbr": "BRIDG",
+		"shape": "0.0836",
+		"size": "113013"
+	},
+	{
+		"abbr": "BRO",
+		"shape": "0.0026",
+		"size": "1763"
+	},
+	{
+		"abbr": "BRO_x1",
+		"shape": "0.1186",
+		"size": "6430"
+	},
+	{
+		"abbr": "BRO-ACTIVITY",
+		"shape": "0.1",
+		"size": "284"
+	},
+	{
+		"abbr": "BRO-AREAOFRESEARCH",
+		"shape": "0",
+		"size": "277"
+	},
+	{
+		"abbr": "BRO-CHINESE",
+		"shape": "0",
+		"size": "2149"
+	},
+	{
+		"abbr": "BRO-CORE",
+		"shape": "0.1404",
+		"size": "2274"
+	},
+	{
+		"abbr": "BSPO",
+		"shape": "0.443",
+		"size": "2433"
+	},
+	{
+		"abbr": "BT",
+		"shape": "0",
+		"size": "6025"
+	},
+	{
+		"abbr": "BTO",
+		"shape": "0",
+		"size": "74707"
+	},
+	{
+		"abbr": "CANCO",
+		"shape": "0",
+		"size": "1388"
+	},
+	{
+		"abbr": "CAO",
+		"shape": "0.1761",
+		"size": "2764"
+	},
+	{
+		"abbr": "CARELEX",
+		"shape": "0",
+		"size": "6956"
+	},
+	{
+		"abbr": "CARO",
+		"shape": "0.02",
+		"size": "617"
+	},
+	{
+		"abbr": "CBO",
+		"shape": "0",
+		"size": "2577"
+	},
+	{
+		"abbr": "CCO",
+		"shape": "0.472",
+		"size": "4191046"
+	},
+	{
+		"abbr": "CCONT",
+		"shape": "0",
+		"size": "101876"
+	},
+	{
+		"abbr": "CDAO",
+		"shape": "0.0572",
+		"size": "1821"
+	},
+	{
+		"abbr": "CHEBI",
+		"shape": "0.4238",
+		"size": "1900738"
+	},
+	{
+		"abbr": "CHEM2BIO2OWL",
+		"shape": "0",
+		"size": "1368"
+	},
+	{
+		"abbr": "CHEMINF",
+		"shape": "0.1893",
+		"size": "7326"
+	},
+	{
+		"abbr": "CITATION",
+		"shape": "0",
+		"size": "29"
+	},
+	{
+		"abbr": "CL",
+		"shape": "0.5314",
+		"size": "139371"
+	},
+	{
+		"abbr": "CLINICALTRIALONTOLOGY",
+		"shape": "0.0192",
+		"size": "564"
+	},
+	{
+		"abbr": "CLO",
+		"shape": "0.0776",
+		"size": "244730"
+	},
+	{
+		"abbr": "CMO",
+		"shape": "0.0101",
+		"size": "19350"
+	},
+	{
+		"abbr": "CNO",
+		"shape": "0.2219",
+		"size": "5274"
+	},
+	{
+		"abbr": "CO_WHEAT",
+		"shape": "0",
+		"size": "2823"
+	},
+	{
+		"abbr": "COGAT",
+		"shape": "0",
+		"size": "25779"
+	},
+	{
+		"abbr": "COGPO",
+		"shape": "0.2732",
+		"size": "4950"
+	},
+	{
+		"abbr": "CONSENTONTOLOGY",
+		"shape": "0",
+		"size": "20888"
+	},
+	{
+		"abbr": "CPO",
+		"shape": "0",
+		"size": "335"
+	},
+	{
+		"abbr": "CPR",
+		"shape": "0.0175",
+		"size": "4510"
+	},
+	{
+		"abbr": "CPT",
+		"shape": "NaN",
+		"size": "76229"
+	},
+	{
+		"abbr": "CPTAC",
+		"shape": "0",
+		"size": "435"
+	},
+	{
+		"abbr": "CPT-MOD",
+		"shape": "0",
+		"size": "492"
+	},
+	{
+		"abbr": "CSP",
+		"shape": "0.9186",
+		"size": "258641"
+	},
+	{
+		"abbr": "CST",
+		"shape": "0",
+		"size": "22035"
+	},
+	{
+		"abbr": "CTCAE",
+		"shape": "0",
+		"size": "50880"
+	},
+	{
+		"abbr": "CTOINSKOS",
+		"shape": "1",
+		"size": "23592"
+	},
+	{
+		"abbr": "CTX",
+		"shape": "0.6514",
+		"size": "8131"
+	},
+	{
+		"abbr": "DC_CL",
+		"shape": "0.3089",
+		"size": "3219"
+	},
+	{
+		"abbr": "DCELEMENTS",
+		"shape": "NaN",
+		"size": "5"
+	},
+	{
+		"abbr": "DCTERMS",
+		"shape": "NaN",
+		"size": "23"
+	},
+	{
+		"abbr": "DDANAT",
+		"shape": "0.256",
+		"size": "2721"
+	},
+	{
+		"abbr": "DDI",
+		"shape": "0.2543",
+		"size": "5856"
+	},
+	{
+		"abbr": "DERMLEX",
+		"shape": "0.3332",
+		"size": "24573"
+	},
+	{
+		"abbr": "DIAGNOSTICONT",
+		"shape": "0",
+		"size": "729"
+	},
+	{
+		"abbr": "DIKB-EVIDENCE",
+		"shape": "0.0018",
+		"size": "2307"
+	},
+	{
+		"abbr": "DOID",
+		"shape": "0.1982",
+		"size": "188674"
+	},
+	{
+		"abbr": "ECG",
+		"shape": "0.0044",
+		"size": "8543"
+	},
+	{
+		"abbr": "ECGF",
+		"shape": "0",
+		"size": "1957"
+	},
+	{
+		"abbr": "ECGT",
+		"shape": "0.0072",
+		"size": "5753"
+	},
+	{
+		"abbr": "ECO",
+		"shape": "0.0397",
+		"size": "4554"
+	},
+	{
+		"abbr": "EDAM",
+		"shape": "0.1413",
+		"size": "36106"
+	},
+	{
+		"abbr": "EFO",
+		"shape": "0.0678",
+		"size": "224046"
+	},
+	{
+		"abbr": "EHDA",
+		"shape": "0",
+		"size": "83340"
+	},
+	{
+		"abbr": "EHDAA",
+		"shape": "NaN",
+		"size": "18659"
+	},
+	{
+		"abbr": "EHDAA2",
+		"shape": "0.0067",
+		"size": "59747"
+	},
+	{
+		"abbr": "EMAP",
+		"shape": "NaN",
+		"size": "109848"
+	},
+	{
+		"abbr": "ENVO",
+		"shape": "0.3996",
+		"size": "26650"
+	},
+	{
+		"abbr": "ENVO_153",
+		"shape": "0.4627",
+		"size": "23113"
+	},
+	{
+		"abbr": "EO",
+		"shape": "0",
+		"size": "5280"
+	},
+	{
+		"abbr": "EP",
+		"shape": "0.0065",
+		"size": "36607"
+	},
+	{
+		"abbr": "EPILEPONTO",
+		"shape": "0",
+		"size": "879"
+	},
+	{
+		"abbr": "ERO",
+		"shape": "0.5157",
+		"size": "33687"
+	},
+	{
+		"abbr": "EV",
+		"shape": "0",
+		"size": "18461"
+	},
+	{
+		"abbr": "EVENT",
+		"shape": "0",
+		"size": "66"
+	},
+	{
+		"abbr": "EXO",
+		"shape": "0",
+		"size": "1322"
+	},
+	{
+		"abbr": "FABIO",
+		"shape": "NaN",
+		"size": "20"
+	},
+	{
+		"abbr": "FAO",
+		"shape": "0.1099",
+		"size": "1092"
+	},
+	{
+		"abbr": "FBBI",
+		"shape": "0.0038",
+		"size": "4705"
+	},
+	{
+		"abbr": "FBBT",
+		"shape": "0.0295",
+		"size": "153478"
+	},
+	{
+		"abbr": "FBCV",
+		"shape": "0.039",
+		"size": "9333"
+	},
+	{
+		"abbr": "FBDV",
+		"shape": "0.0079",
+		"size": "2908"
+	},
+	{
+		"abbr": "FBSP",
+		"shape": "0.2494",
+		"size": "42806"
+	},
+	{
+		"abbr": "FDA-MEDDEVICE",
+		"shape": "0",
+		"size": "61147"
+	},
+	{
+		"abbr": "FHHO",
+		"shape": "0",
+		"size": "6639"
+	},
+	{
+		"abbr": "FIELD",
+		"shape": "0.0517",
+		"size": "171"
+	},
+	{
+		"abbr": "FIX",
+		"shape": "0",
+		"size": "7618"
+	},
+	{
+		"abbr": "FLU",
+		"shape": "0.2476",
+		"size": "5426"
+	},
+	{
+		"abbr": "FMA",
+		"shape": "0.2331",
+		"size": "1714653"
+	},
+	{
+		"abbr": "FMA_SUBSET",
+		"shape": "0",
+		"size": "612956"
+	},
+	{
+		"abbr": "FOAF",
+		"shape": "0",
+		"size": "125"
+	},
+	{
+		"abbr": "FYPO",
+		"shape": "0.1556",
+		"size": "175208"
+	},
+	{
+		"abbr": "GALEN",
+		"shape": "0",
+		"size": "272562"
+	},
+	{
+		"abbr": "GAZ",
+		"shape": "0.6484",
+		"size": "8631345"
+	},
+	{
+		"abbr": "GEOPOLITICAL",
+		"shape": "0",
+		"size": "1042"
+	},
+	{
+		"abbr": "GEOSPECIES",
+		"shape": "0.4121",
+		"size": "9623"
+	},
+	{
+		"abbr": "GFO",
+		"shape": "0",
+		"size": "647"
+	},
+	{
+		"abbr": "GFO-BIO",
+		"shape": "0.0105",
+		"size": "1369"
+	},
+	{
+		"abbr": "GLYCO",
+		"shape": "0.9646",
+		"size": "188380"
+	},
+	{
+		"abbr": "GLYCOPROT",
+		"shape": "0",
+		"size": "295"
+	},
+	{
+		"abbr": "GO",
+		"shape": "0.0457",
+		"size": "961824"
+	},
+	{
+		"abbr": "GO-EXT",
+		"shape": "0.1712",
+		"size": "846551"
+	},
+	{
+		"abbr": "GOSLIM_CANDIDA",
+		"shape": "0.7124",
+		"size": "2465"
+	},
+	{
+		"abbr": "GOSLIM_GENERIC",
+		"shape": "0.4961",
+		"size": "2895"
+	},
+	{
+		"abbr": "GOSLIM_GOA",
+		"shape": "0.1867",
+		"size": "1513"
+	},
+	{
+		"abbr": "GOSLIM_PIR",
+		"shape": "0.4443",
+		"size": "10341"
+	},
+	{
+		"abbr": "GOSLIM_PIR_x1",
+		"shape": "0.4443",
+		"size": "10341"
+	},
+	{
+		"abbr": "GOSLIM_PLANT",
+		"shape": "0.5174",
+		"size": "2456"
+	},
+	{
+		"abbr": "GOSLIM_POMBE",
+		"shape": "0.8583",
+		"size": "1503"
+	},
+	{
+		"abbr": "GOSLIM_YEAST",
+		"shape": "0.6642",
+		"size": "2529"
+	},
+	{
+		"abbr": "GRO",
+		"shape": "0",
+		"size": "5210"
+	},
+	{
+		"abbr": "GRO_CPD",
+		"shape": "0",
+		"size": "2652"
+	},
+	{
+		"abbr": "GRO_CPGA",
+		"shape": "0.3168",
+		"size": "41772"
+	},
+	{
+		"abbr": "GWAS_EFO_SKOS",
+		"shape": "0.1966",
+		"size": "257352"
+	},
+	{
+		"abbr": "H1_NMOABA",
+		"shape": "0",
+		"size": "5028"
+	},
+	{
+		"abbr": "H1_NMOABA_x1",
+		"shape": "0",
+		"size": "5097"
+	},
+	{
+		"abbr": "H1_NMOABA_x2",
+		"shape": "0",
+		"size": "5104"
+	},
+	{
+		"abbr": "H1_NMOABA_x3",
+		"shape": "0",
+		"size": "5028"
+	},
+	{
+		"abbr": "H2_HIPCLASSICREGIONS",
+		"shape": "0",
+		"size": "64"
+	},
+	{
+		"abbr": "H3_HIPSEPTOTEMPORALAXIS",
+		"shape": "0",
+		"size": "34"
+	},
+	{
+		"abbr": "HAO",
+		"shape": "0",
+		"size": "40879"
+	},
+	{
+		"abbr": "HCPCS",
+		"shape": "1",
+		"size": "96969"
+	},
+	{
+		"abbr": "HCPCS-HIMC",
+		"shape": "0.0128",
+		"size": "82257"
+	},
+	{
+		"abbr": "HCPCS-MOD",
+		"shape": "0",
+		"size": "520"
+	},
+	{
+		"abbr": "HIMC-CPT",
+		"shape": "0.0004",
+		"size": "271860"
+	},
+	{
+		"abbr": "HINO",
+		"shape": "0.0586",
+		"size": "706665"
+	},
+	{
+		"abbr": "HL7",
+		"shape": "0.0028",
+		"size": "142056"
+	},
+	{
+		"abbr": "HLTH_INDICS",
+		"shape": "0",
+		"size": "2183"
+	},
+	{
+		"abbr": "HOM",
+		"shape": "0.17",
+		"size": "1380"
+	},
+	{
+		"abbr": "HOM-HARVARD",
+		"shape": "0",
+		"size": "1107"
+	},
+	{
+		"abbr": "HOM-ICD9",
+		"shape": "0",
+		"size": "177429"
+	},
+	{
+		"abbr": "HOM-UCSF_UCAREDISPOSTION",
+		"shape": "0",
+		"size": "449"
+	},
+	{
+		"abbr": "HP",
+		"shape": "0.0011",
+		"size": "116832"
+	},
+	{
+		"abbr": "HPIO",
+		"shape": "0",
+		"size": "2842"
+	},
+	{
+		"abbr": "HSDB_OCRE",
+		"shape": "0.1104",
+		"size": "5984"
+	},
+	{
+		"abbr": "HUGO",
+		"shape": "0",
+		"size": "898855"
+	},
+	{
+		"abbr": "IAO",
+		"shape": "0.4015",
+		"size": "2598"
+	},
+	{
+		"abbr": "ICD0",
+		"shape": "0",
+		"size": "12568"
+	},
+	{
+		"abbr": "ICD09",
+		"shape": "0",
+		"size": "576414"
+	},
+	{
+		"abbr": "ICD10",
+		"shape": "0",
+		"size": "87925"
+	},
+	{
+		"abbr": "ICD10CM",
+		"shape": "0.8293",
+		"size": "1119554"
+	},
+	{
+		"abbr": "ICD10PCS",
+		"shape": "0.7457",
+		"size": "1844776"
+	},
+	{
+		"abbr": "ICD9CM",
+		"shape": "0.8604",
+		"size": "322211"
+	},
+	{
+		"abbr": "ICD9CM-PROC",
+		"shape": "0",
+		"size": "47707"
+	},
+	{
+		"abbr": "ICECI",
+		"shape": "0.0516",
+		"size": "15862"
+	},
+	{
+		"abbr": "ICECI-ACTIVITY",
+		"shape": "0.2614",
+		"size": "250"
+	},
+	{
+		"abbr": "ICECI-COUNTERMEASURES",
+		"shape": "0",
+		"size": "206"
+	},
+	{
+		"abbr": "ICECI-DESCRIPTOR_FOR_INTENT",
+		"shape": "0.0502",
+		"size": "1545"
+	},
+	{
+		"abbr": "ICECI-DETAILS_FOR_ACTIVITY",
+		"shape": "0.0162",
+		"size": "2345"
+	},
+	{
+		"abbr": "ICECI-DETAILS_FOR_MECHANISM",
+		"shape": "0.0886",
+		"size": "1143"
+	},
+	{
+		"abbr": "ICECI-DETAILS_FOR_PLACE_OF_OCCURRENCE",
+		"shape": "0.016",
+		"size": "432"
+	},
+	{
+		"abbr": "ICECI-INSTRUMENT_OBJECT_SUBSTANCE",
+		"shape": "0.0055",
+		"size": "7606"
+	},
+	{
+		"abbr": "ICECI-INTENT",
+		"shape": "0.0882",
+		"size": "115"
+	},
+	{
+		"abbr": "ICECI-MECHANISM",
+		"shape": "0.1447",
+		"size": "1713"
+	},
+	{
+		"abbr": "ICECI-PLACE_OF_OCCURRENCE",
+		"shape": "0.2259",
+		"size": "697"
+	},
+	{
+		"abbr": "ICECI-SUBSTANCE_USE",
+		"shape": "0",
+		"size": "115"
+	},
+	{
+		"abbr": "ICF",
+		"shape": "0.6254",
+		"size": "28475"
+	},
+	{
+		"abbr": "ICF-D1",
+		"shape": "0.1346",
+		"size": "9899"
+	},
+	{
+		"abbr": "ICF-D2",
+		"shape": "0.1342",
+		"size": "9873"
+	},
+	{
+		"abbr": "ICF-D3",
+		"shape": "0.136",
+		"size": "9984"
+	},
+	{
+		"abbr": "ICF-D4",
+		"shape": "0.1595",
+		"size": "10394"
+	},
+	{
+		"abbr": "ICF-D5",
+		"shape": "0.1367",
+		"size": "9943"
+	},
+	{
+		"abbr": "ICF-D6",
+		"shape": "0.1444",
+		"size": "10056"
+	},
+	{
+		"abbr": "ICF-D7",
+		"shape": "0.1378",
+		"size": "10027"
+	},
+	{
+		"abbr": "ICF-D8",
+		"shape": "0.1336",
+		"size": "9908"
+	},
+	{
+		"abbr": "ICF-D810-D839",
+		"shape": "0.1248",
+		"size": "9713"
+	},
+	{
+		"abbr": "ICF-D840-D859",
+		"shape": "0.1287",
+		"size": "9781"
+	},
+	{
+		"abbr": "ICF-D840-D859_D860-D879",
+		"shape": "0.1313",
+		"size": "9845"
+	},
+	{
+		"abbr": "ICF-D860-D879",
+		"shape": "0.1257",
+		"size": "9728"
+	},
+	{
+		"abbr": "ICF-D9",
+		"shape": "0.1331",
+		"size": "9845"
+	},
+	{
+		"abbr": "ICF-NOCODELABEL",
+		"shape": "0.6254",
+		"size": "26977"
+	},
+	{
+		"abbr": "ICNP",
+		"shape": "0",
+		"size": "141481"
+	},
+	{
+		"abbr": "ICPC",
+		"shape": "0",
+		"size": "8581"
+	},
+	{
+		"abbr": "ICPC2P",
+		"shape": "1",
+		"size": "94630"
+	},
+	{
+		"abbr": "ICPS",
+		"shape": "0.3687",
+		"size": "10203"
+	},
+	{
+		"abbr": "IDO",
+		"shape": "0.0508",
+		"size": "7379"
+	},
+	{
+		"abbr": "IDOBRU",
+		"shape": "0.1468",
+		"size": "23877"
+	},
+	{
+		"abbr": "IDODEN",
+		"shape": "0.0036",
+		"size": "38655"
+	},
+	{
+		"abbr": "IDOMAL",
+		"shape": "0.0569",
+		"size": "37978"
+	},
+	{
+		"abbr": "IDQA",
+		"shape": "0.3182",
+		"size": "1206"
+	},
+	{
+		"abbr": "IEV",
+		"shape": "0",
+		"size": "47203"
+	},
+	{
+		"abbr": "IFAR",
+		"shape": "0",
+		"size": "16086"
+	},
+	{
+		"abbr": "IMGT",
+		"shape": "0.0807",
+		"size": "10028"
+	},
+	{
+		"abbr": "IMMDIS",
+		"shape": "0",
+		"size": "20643"
+	},
+	{
+		"abbr": "IMR",
+		"shape": "0",
+		"size": "132298"
+	},
+	{
+		"abbr": "INO",
+		"shape": "0.1115",
+		"size": "8571"
+	},
+	{
+		"abbr": "IXNO",
+		"shape": "0.5979",
+		"size": "1237"
+	},
+	{
+		"abbr": "JERM",
+		"shape": "0.0477",
+		"size": "1730"
+	},
+	{
+		"abbr": "JOURNAL-TEST",
+		"shape": "0",
+		"size": "34"
+	},
+	{
+		"abbr": "K2P",
+		"shape": "0.04",
+		"size": "51"
+	},
+	{
+		"abbr": "KISAO",
+		"shape": "0",
+		"size": "6516"
+	},
+	{
+		"abbr": "LDA",
+		"shape": "0",
+		"size": "295"
+	},
+	{
+		"abbr": "LHN",
+		"shape": "0",
+		"size": "2931"
+	},
+	{
+		"abbr": "LIPRO",
+		"shape": "0",
+		"size": "15406"
+	},
+	{
+		"abbr": "LNC",
+		"shape": "0.9228",
+		"size": "4037280"
+	},
+	{
+		"abbr": "MA",
+		"shape": "0",
+		"size": "21962"
+	},
+	{
+		"abbr": "MAO",
+		"shape": "0",
+		"size": "1920"
+	},
+	{
+		"abbr": "MAT",
+		"shape": "0",
+		"size": "4891"
+	},
+	{
+		"abbr": "MCBCC",
+		"shape": "0",
+		"size": "15681"
+	},
+	{
+		"abbr": "MCCL",
+		"shape": "0",
+		"size": "20689"
+	},
+	{
+		"abbr": "MCCV",
+		"shape": "0",
+		"size": "264"
+	},
+	{
+		"abbr": "MCV",
+		"shape": "0",
+		"size": "3640"
+	},
+	{
+		"abbr": "MDDB",
+		"shape": "NaN",
+		"size": "76883"
+	},
+	{
+		"abbr": "MDR",
+		"shape": "0.9771",
+		"size": "1774258"
+	},
+	{
+		"abbr": "MEDLINEPLUS",
+		"shape": "0.9806",
+		"size": "94291"
+	},
+	{
+		"abbr": "MEDO",
+		"shape": "0",
+		"size": "441"
+	},
+	{
+		"abbr": "MEGO",
+		"shape": "0.3256",
+		"size": "5064"
+	},
+	{
+		"abbr": "MF",
+		"shape": "0.1935",
+		"size": "12310"
+	},
+	{
+		"abbr": "MFO",
+		"shape": "0",
+		"size": "34859"
+	},
+	{
+		"abbr": "MFOEM",
+		"shape": "0.1664",
+		"size": "13517"
+	},
+	{
+		"abbr": "MHC",
+		"shape": "0.0591",
+		"size": "1025"
+	},
+	{
+		"abbr": "MI",
+		"shape": "0",
+		"size": "19459"
+	},
+	{
+		"abbr": "MIRNAO",
+		"shape": "0",
+		"size": "3555"
+	},
+	{
+		"abbr": "MIRO",
+		"shape": "0.0545",
+		"size": "58909"
+	},
+	{
+		"abbr": "MIXS",
+		"shape": "0.9437",
+		"size": "784"
+	},
+	{
+		"abbr": "MMO",
+		"shape": "0",
+		"size": "4473"
+	},
+	{
+		"abbr": "MO",
+		"shape": "0.19",
+		"size": "5492"
+	},
+	{
+		"abbr": "MOD",
+		"shape": "0",
+		"size": "51117"
+	},
+	{
+		"abbr": "MP",
+		"shape": "0.0366",
+		"size": "130332"
+	},
+	{
+		"abbr": "MPATH",
+		"shape": "0.0012",
+		"size": "10167"
+	},
+	{
+		"abbr": "MS",
+		"shape": "0",
+		"size": "25567"
+	},
+	{
+		"abbr": "MSH",
+		"shape": "0.9727",
+		"size": "7970325"
+	},
+	{
+		"abbr": "MTHCH",
+		"shape": "0",
+		"size": "7302"
+	},
+	{
+		"abbr": "NATPRO",
+		"shape": "0.124",
+		"size": "345384"
+	},
+	{
+		"abbr": "NBO",
+		"shape": "0.1213",
+		"size": "9640"
+	},
+	{
+		"abbr": "NCBI_NMO",
+		"shape": "0.4977",
+		"size": "4889"
+	},
+	{
+		"abbr": "NCBI_NMOSP",
+		"shape": "0.0061",
+		"size": "9584"
+	},
+	{
+		"abbr": "NCBI_NMOSP_x1",
+		"shape": "0.2921",
+		"size": "7248"
+	},
+	{
+		"abbr": "NCBI_NMOSP_x2",
+		"shape": "0.0056",
+		"size": "9951"
+	},
+	{
+		"abbr": "NCBITAXON",
+		"shape": "0.4998",
+		"size": "4667378"
+	},
+	{
+		"abbr": "NCBO_TEST_NOTES",
+		"shape": "0",
+		"size": "53"
+	},
+	{
+		"abbr": "NCIT",
+		"shape": "0.4441",
+		"size": "1694993"
+	},
+	{
+		"abbr": "NCIT-ACTIVITY",
+		"shape": "0",
+		"size": "57225"
+	},
+	{
+		"abbr": "NDDF",
+		"shape": "1",
+		"size": "490514"
+	},
+	{
+		"abbr": "NDFRT",
+		"shape": "0.9035",
+		"size": "1166537"
+	},
+	{
+		"abbr": "NDF-RT",
+		"shape": "0.4109",
+		"size": "1440647"
+	},
+	{
+		"abbr": "NEMO",
+		"shape": "0.0504",
+		"size": "41014"
+	},
+	{
+		"abbr": "NEOMARK",
+		"shape": "0.0914",
+		"size": "3223"
+	},
+	{
+		"abbr": "NEOMARKONTOLOGY",
+		"shape": "0",
+		"size": "6243"
+	},
+	{
+		"abbr": "NEUMORE",
+		"shape": "0",
+		"size": "92"
+	},
+	{
+		"abbr": "NEUROFMA",
+		"shape": "0.2975",
+		"size": "62239"
+	},
+	{
+		"abbr": "NIAID-GSC-BRC",
+		"shape": "0.4656",
+		"size": "3216"
+	},
+	{
+		"abbr": "NIF",
+		"shape": "0.0066",
+		"size": "2502314"
+	},
+	{
+		"abbr": "NIF_CELL",
+		"shape": "0.0521",
+		"size": "47505"
+	},
+	{
+		"abbr": "NIF_DYSFUNCTION",
+		"shape": "0.015",
+		"size": "242368"
+	},
+	{
+		"abbr": "NIF-RTH",
+		"shape": "0",
+		"size": "2165"
+	},
+	{
+		"abbr": "NIF-SUBCELL",
+		"shape": "0.0084",
+		"size": "37441"
+	},
+	{
+		"abbr": "NIGO",
+		"shape": "0",
+		"size": "86537"
+	},
+	{
+		"abbr": "NMOABA",
+		"shape": "0",
+		"size": "4912"
+	},
+	{
+		"abbr": "NMR",
+		"shape": "0",
+		"size": "1883"
+	},
+	{
+		"abbr": "NONRCTONTOLOGY",
+		"shape": "0.0014",
+		"size": "1502"
+	},
+	{
+		"abbr": "NPO",
+		"shape": "0.0002",
+		"size": "36780"
+	},
+	{
+		"abbr": "NTDO",
+		"shape": "0.0047",
+		"size": "10224"
+	},
+	{
+		"abbr": "OAE",
+		"shape": "0.4234",
+		"size": "57696"
+	},
+	{
+		"abbr": "OBI",
+		"shape": "0.1263",
+		"size": "79362"
+	},
+	{
+		"abbr": "OBI_IEDB_VIEW",
+		"shape": "0.123",
+		"size": "82142"
+	},
+	{
+		"abbr": "OBI-DEVICE",
+		"shape": "0",
+		"size": "17503"
+	},
+	{
+		"abbr": "OBI-FGED",
+		"shape": "0.4848",
+		"size": "27152"
+	},
+	{
+		"abbr": "OBIWS",
+		"shape": "0.2077",
+		"size": "3463"
+	},
+	{
+		"abbr": "OBO_REL",
+		"shape": "0",
+		"size": "262"
+	},
+	{
+		"abbr": "OBOE",
+		"shape": "0.0065",
+		"size": "872"
+	},
+	{
+		"abbr": "OBOE-SBC",
+		"shape": "0.0714",
+		"size": "7059"
+	},
+	{
+		"abbr": "OCRE",
+		"shape": "0.0238",
+		"size": "5139"
+	},
+	{
+		"abbr": "ODGI",
+		"shape": "0.4392",
+		"size": "4758"
+	},
+	{
+		"abbr": "OGI",
+		"shape": "0.3272",
+		"size": "8631"
+	},
+	{
+		"abbr": "OGMD",
+		"shape": "0",
+		"size": "662"
+	},
+	{
+		"abbr": "OGMD_OWL",
+		"shape": "0",
+		"size": "2618"
+	},
+	{
+		"abbr": "OGMS",
+		"shape": "0.1353",
+		"size": "1550"
+	},
+	{
+		"abbr": "OGR",
+		"shape": "0",
+		"size": "157"
+	},
+	{
+		"abbr": "OGSF",
+		"shape": "0.4384",
+		"size": "10753"
+	},
+	{
+		"abbr": "OMIM",
+		"shape": "0.8095",
+		"size": "754767"
+	},
+	{
+		"abbr": "OMIT",
+		"shape": "0.4016",
+		"size": "4082"
+	},
+	{
+		"abbr": "OMRSE",
+		"shape": "0.1781",
+		"size": "1395"
+	},
+	{
+		"abbr": "ONSTR",
+		"shape": "0.3083",
+		"size": "7142"
+	},
+	{
+		"abbr": "ONTODM-CORE",
+		"shape": "0.1762",
+		"size": "7426"
+	},
+	{
+		"abbr": "ONTODT",
+		"shape": "0.2992",
+		"size": "2857"
+	},
+	{
+		"abbr": "ONTOKBCF",
+		"shape": "0",
+		"size": "3305"
+	},
+	{
+		"abbr": "ONTOMA",
+		"shape": "0.0075",
+		"size": "1308"
+	},
+	{
+		"abbr": "ONTOORPHA",
+		"shape": "0",
+		"size": "388169"
+	},
+	{
+		"abbr": "ONTOPNEUMO",
+		"shape": "0",
+		"size": "6721"
+	},
+	{
+		"abbr": "OOEVV",
+		"shape": "0.0935",
+		"size": "860"
+	},
+	{
+		"abbr": "OOEVV-TRACTTRACE",
+		"shape": "0.2197",
+		"size": "955"
+	},
+	{
+		"abbr": "OOEVV-VACCINE",
+		"shape": "0.3762",
+		"size": "1523"
+	},
+	{
+		"abbr": "OPB.PROPERTIES",
+		"shape": "0",
+		"size": "4425"
+	},
+	{
+		"abbr": "OPE",
+		"shape": "0",
+		"size": "4644"
+	},
+	{
+		"abbr": "OPL",
+		"shape": "0.0562",
+		"size": "5452"
+	},
+	{
+		"abbr": "PATHLEX",
+		"shape": "0",
+		"size": "9168"
+	},
+	{
+		"abbr": "PATO",
+		"shape": "0.0011",
+		"size": "27540"
+	},
+	{
+		"abbr": "PD_ST",
+		"shape": "0",
+		"size": "383"
+	},
+	{
+		"abbr": "PDQ",
+		"shape": "0.9059",
+		"size": "124212"
+	},
+	{
+		"abbr": "PEDTERM",
+		"shape": "0",
+		"size": "99"
+	},
+	{
+		"abbr": "PEO",
+		"shape": "0",
+		"size": "1051"
+	},
+	{
+		"abbr": "PFO",
+		"shape": "0",
+		"size": "174"
+	},
+	{
+		"abbr": "PHARE",
+		"shape": "0.0101",
+		"size": "2801"
+	},
+	{
+		"abbr": "PHENOSCAPE-EXT",
+		"shape": "0.0863",
+		"size": "534971"
+	},
+	{
+		"abbr": "PHENX",
+		"shape": "0",
+		"size": "3511"
+	},
+	{
+		"abbr": "PHYLONT",
+		"shape": "0.0098",
+		"size": "1070"
+	},
+	{
+		"abbr": "PIZZA-EXAMPLE",
+		"shape": "0",
+		"size": "2431"
+	},
+	{
+		"abbr": "PKO",
+		"shape": "0",
+		"size": "3127"
+	},
+	{
+		"abbr": "PMA",
+		"shape": "0",
+		"size": "12544"
+	},
+	{
+		"abbr": "PMR",
+		"shape": "0",
+		"size": "481"
+	},
+	{
+		"abbr": "PO",
+		"shape": "0.3139",
+		"size": "56375"
+	},
+	{
+		"abbr": "PO_PAE",
+		"shape": "0.3168",
+		"size": "41772"
+	},
+	{
+		"abbr": "PO_PSDS",
+		"shape": "0.1469",
+		"size": "9524"
+	},
+	{
+		"abbr": "POL",
+		"shape": "0",
+		"size": "236"
+	},
+	{
+		"abbr": "PORO",
+		"shape": "0",
+		"size": "9237"
+	},
+	{
+		"abbr": "PR",
+		"shape": "0.0001",
+		"size": "834255"
+	},
+	{
+		"abbr": "PRO-ONT",
+		"shape": "0",
+		"size": "1467"
+	},
+	{
+		"abbr": "PROPREO",
+		"shape": "0.0324",
+		"size": "2822"
+	},
+	{
+		"abbr": "PROVENANCE",
+		"shape": "0",
+		"size": "18"
+	},
+	{
+		"abbr": "PROV-O",
+		"shape": "0.6419",
+		"size": "2020"
+	},
+	{
+		"abbr": "PSEUDO",
+		"shape": "0",
+		"size": "143"
+	},
+	{
+		"abbr": "PVONTO",
+		"shape": "0",
+		"size": "92"
+	},
+	{
+		"abbr": "PW",
+		"shape": "0",
+		"size": "15137"
+	},
+	{
+		"abbr": "QIBO",
+		"shape": "0",
+		"size": "3156"
+	},
+	{
+		"abbr": "RADLEX_OWL",
+		"shape": "0.3646",
+		"size": "172310"
+	},
+	{
+		"abbr": "RCD",
+		"shape": "0.9183",
+		"size": "4229895"
+	},
+	{
+		"abbr": "RCTONTOLOGY",
+		"shape": "0.0011",
+		"size": "2091"
+	},
+	{
+		"abbr": "REPO",
+		"shape": "0",
+		"size": "793"
+	},
+	{
+		"abbr": "REX",
+		"shape": "0",
+		"size": "5598"
+	},
+	{
+		"abbr": "RH-MESH",
+		"shape": "0",
+		"size": "1262119"
+	},
+	{
+		"abbr": "RID",
+		"shape": "0.4789",
+		"size": "373165"
+	},
+	{
+		"abbr": "RNAO",
+		"shape": "0.0389",
+		"size": "2973"
+	},
+	{
+		"abbr": "ROLEO",
+		"shape": "0",
+		"size": "4101"
+	},
+	{
+		"abbr": "RPO",
+		"shape": "0",
+		"size": "24093"
+	},
+	{
+		"abbr": "RS",
+		"shape": "0",
+		"size": "28799"
+	},
+	{
+		"abbr": "RXNORM",
+		"shape": "0.9185",
+		"size": "5832652"
+	},
+	{
+		"abbr": "SAO",
+		"shape": "0",
+		"size": "11036"
+	},
+	{
+		"abbr": "SBO",
+		"shape": "0",
+		"size": "5129"
+	},
+	{
+		"abbr": "SBRO",
+		"shape": "0",
+		"size": "738"
+	},
+	{
+		"abbr": "SCIRES",
+		"shape": "0",
+		"size": "142"
+	},
+	{
+		"abbr": "SDO",
+		"shape": "0.0196",
+		"size": "14031"
+	},
+	{
+		"abbr": "SEMPHYSKB-HUMAN",
+		"shape": "0",
+		"size": "3338"
+	},
+	{
+		"abbr": "SEP",
+		"shape": "0",
+		"size": "3125"
+	},
+	{
+		"abbr": "SHR",
+		"shape": "0",
+		"size": "1327"
+	},
+	{
+		"abbr": "SIO",
+		"shape": "0",
+		"size": "10087"
+	},
+	{
+		"abbr": "SITBAC",
+		"shape": "0.2345",
+		"size": "4971"
+	},
+	{
+		"abbr": "SKOS",
+		"shape": "0",
+		"size": "22"
+	},
+	{
+		"abbr": "SMD_NPLSM",
+		"shape": "0",
+		"size": "34450"
+	},
+	{
+		"abbr": "SMD_NPLSM_BRST",
+		"shape": "0",
+		"size": "19875"
+	},
+	{
+		"abbr": "SNMD_BDY",
+		"shape": "0",
+		"size": "533127"
+	},
+	{
+		"abbr": "SNOMEDCT",
+		"shape": "0.7222",
+		"size": "13644855"
+	},
+	{
+		"abbr": "SNOMEDCT-ANAT",
+		"shape": "0",
+		"size": "688410"
+	},
+	{
+		"abbr": "SNOMEDCT-MAS",
+		"shape": "0",
+		"size": "123206"
+	},
+	{
+		"abbr": "SNOMEDCT-ORG",
+		"shape": "0",
+		"size": "452889"
+	},
+	{
+		"abbr": "SNOMEDCT-TF",
+		"shape": "0",
+		"size": "88715"
+	},
+	{
+		"abbr": "SNOMED-ETHNIC-GROUP",
+		"shape": "0",
+		"size": "3623"
+	},
+	{
+		"abbr": "SNPO",
+		"shape": "0.0267",
+		"size": "44906"
+	},
+	{
+		"abbr": "SO",
+		"shape": "0.0591",
+		"size": "31698"
+	},
+	{
+		"abbr": "SOFA",
+		"shape": "0",
+		"size": "3589"
+	},
+	{
+		"abbr": "SOPHARM",
+		"shape": "0.007",
+		"size": "375098"
+	},
+	{
+		"abbr": "SOY",
+		"shape": "0.0252",
+		"size": "35716"
+	},
+	{
+		"abbr": "SPD",
+		"shape": "0",
+		"size": "7185"
+	},
+	{
+		"abbr": "SPO",
+		"shape": "0",
+		"size": "3195"
+	},
+	{
+		"abbr": "SPTO",
+		"shape": "0.651",
+		"size": "4579"
+	},
+	{
+		"abbr": "SSO",
+		"shape": "0.6449",
+		"size": "2225"
+	},
+	{
+		"abbr": "SWEET",
+		"shape": "0.4858",
+		"size": "31922"
+	},
+	{
+		"abbr": "SWO",
+		"shape": "0.0175",
+		"size": "43661"
+	},
+	{
+		"abbr": "SYMP",
+		"shape": "0",
+		"size": "8090"
+	},
+	{
+		"abbr": "SYN",
+		"shape": "0",
+		"size": "79459"
+	},
+	{
+		"abbr": "TADS",
+		"shape": "0",
+		"size": "9749"
+	},
+	{
+		"abbr": "TAO",
+		"shape": "0.1574",
+		"size": "45491"
+	},
+	{
+		"abbr": "TAXRANK",
+		"shape": "0",
+		"size": "443"
+	},
+	{
+		"abbr": "TEDDY",
+		"shape": "0",
+		"size": "15301"
+	},
+	{
+		"abbr": "TEO",
+		"shape": "0.18",
+		"size": "9476"
+	},
+	{
+		"abbr": "TESTVDB",
+		"shape": "0.4471",
+		"size": "357"
+	},
+	{
+		"abbr": "TGMA",
+		"shape": "0",
+		"size": "59152"
+	},
+	{
+		"abbr": "THOMCAN",
+		"shape": "0",
+		"size": "418"
+	},
+	{
+		"abbr": "TMA",
+		"shape": "0",
+		"size": "162"
+	},
+	{
+		"abbr": "TM-CONST",
+		"shape": "NaN",
+		"size": "115"
+	},
+	{
+		"abbr": "TM-MER",
+		"shape": "NaN",
+		"size": "165"
+	},
+	{
+		"abbr": "TMO",
+		"shape": "0",
+		"size": "2742"
+	},
+	{
+		"abbr": "TM-OTHER-FACTORS",
+		"shape": "NaN",
+		"size": "77"
+	},
+	{
+		"abbr": "TM-SIGNS-AND-SYMPTS",
+		"shape": "NaN",
+		"size": "2697"
+	},
+	{
+		"abbr": "TO",
+		"shape": "0.2264",
+		"size": "17339"
+	},
+	{
+		"abbr": "TOK",
+		"shape": "0.0043",
+		"size": "5306"
+	},
+	{
+		"abbr": "TOP-MENELAS",
+		"shape": "0",
+		"size": "5991"
+	},
+	{
+		"abbr": "TRAK",
+		"shape": "0.191",
+		"size": "14247"
+	},
+	{
+		"abbr": "TRANS",
+		"shape": "0",
+		"size": "444"
+	},
+	{
+		"abbr": "TTO",
+		"shape": "0.2563",
+		"size": "650249"
+	},
+	{
+		"abbr": "UBERON",
+		"shape": "0.6325",
+		"size": "369778"
+	},
+	{
+		"abbr": "UCARE_DEMOGRAPHICS",
+		"shape": "0",
+		"size": "343"
+	},
+	{
+		"abbr": "UCSF-ICD910CM",
+		"shape": "0",
+		"size": "808760"
+	},
+	{
+		"abbr": "UNI-ECE",
+		"shape": "0.2318",
+		"size": "4736"
+	},
+	{
+		"abbr": "UNITSONTOLOGY",
+		"shape": "0",
+		"size": "407"
+	},
+	{
+		"abbr": "UO",
+		"shape": "0",
+		"size": "5229"
+	},
+	{
+		"abbr": "VANDF",
+		"shape": "0.688",
+		"size": "667272"
+	},
+	{
+		"abbr": "VARIO",
+		"shape": "0.2204",
+		"size": "5163"
+	},
+	{
+		"abbr": "VHOG",
+		"shape": "0.493",
+		"size": "15249"
+	},
+	{
+		"abbr": "VIVO",
+		"shape": "0",
+		"size": "2469"
+	},
+	{
+		"abbr": "VO",
+		"shape": "0.1372",
+		"size": "76616"
+	},
+	{
+		"abbr": "VSAO",
+		"shape": "0.1577",
+		"size": "5233"
+	},
+	{
+		"abbr": "VSO",
+		"shape": "0.3612",
+		"size": "8729"
+	},
+	{
+		"abbr": "VT",
+		"shape": "0.1149",
+		"size": "43707"
+	},
+	{
+		"abbr": "WBBT",
+		"shape": "0.0021",
+		"size": "105199"
+	},
+	{
+		"abbr": "WBLS",
+		"shape": "0",
+		"size": "705"
+	},
+	{
+		"abbr": "WBPHENOTYPE",
+		"shape": "0.0008",
+		"size": "27225"
+	},
+	{
+		"abbr": "WHO",
+		"shape": "0.988",
+		"size": "247707"
+	},
+	{
+		"abbr": "WSIO",
+		"shape": "0",
+		"size": "1412"
+	},
+	{
+		"abbr": "XAO",
+		"shape": "0.3926",
+		"size": "31473"
+	},
+	{
+		"abbr": "XCO",
+		"shape": "0.1077",
+		"size": "3923"
+	},
+	{
+		"abbr": "XEO",
+		"shape": "0",
+		"size": "1441"
+	},
+	{
+		"abbr": "YPO",
+		"shape": "0",
+		"size": "4146"
+	},
+	{
+		"abbr": "ZEA",
+		"shape": "0",
+		"size": "2331"
+	},
+	{
+		"abbr": "ZFA",
+		"shape": "0.5206",
+		"size": "76336"
+	},
+	{
+		"abbr": "ZIP",
+		"shape": "0.0554",
+		"size": "427253"
+	}
+]
