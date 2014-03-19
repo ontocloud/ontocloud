@@ -2,6 +2,8 @@ var Settings = function() {
 	// Global variables
 	var g_graphData = null;	// graph data is saved here.
 	var transMatrix = null;	// Matrix for zooming/panning. 
+	var width = null;
+	var height = null;
 	// Different versions of the graph.
 	var g_loaded_version = null;
 	var g_versions = null;
@@ -11,13 +13,15 @@ var Settings = function() {
 	// Are we in the shape mode?
 	var g_shapeMode = false;
 	var g_shapeData = null;
-	var g_versions_shape = null;
+	var g_versions_shape = null
 }
 
 var initGlobals = function initGlobals() {
 	// Global variables
 	Settings.g_graphData = "";	// graph data is saved here.
 	Settings.transMatrix = [1,0,0,1,0,0];	// Matrix for zooming/panning. 
+	Settings.width  = $("#graph").attr("width");
+    Settings.height = $("#graph").attr("height");
 
 	// Different versions of the graph.
 	Settings.g_versions = versions;
@@ -539,8 +543,8 @@ function init_compass() {
 	$("#map-matrix").attr("transform", Settings.transMatrix);
 
     mapMatrix = $("#map-matrix");
-    width  = $("#graph").attr("width");
-    height = $("#graph").attr("height");
+    Settings.width  = $("#graph").attr("width");
+    Settings.height = $("#graph").attr("height");
 }
 
 /**
@@ -558,8 +562,8 @@ function Zoom(scale) {
     Settings.transMatrix[i] *= scale;
   }
 
-  Settings.transMatrix[4] += (1-scale)*width/2;
-  Settings.transMatrix[5] += (1-scale)*height/2;
+  Settings.transMatrix[4] += (1-scale)*Settings.width/2;
+  Settings.transMatrix[5] += (1-scale)*Settings.height/2;
            
   var newMatrix = "matrix(" +  Settings.transMatrix.join(' ') + ")";
   $("#map-matrix").attr("transform", newMatrix);
