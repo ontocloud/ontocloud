@@ -1,6 +1,6 @@
 // Domain where verjson sion files are saved.
-//var version_domain = "http://bionlp.dbcls.jp/ontocloud/json/";
-var version_domain = "http://localhost:9090/json/"
+var version_domain = "http://bionlp.dbcls.jp/ontocloud/json/";
+//var version_domain = "http://localhost:9090/json/"
 
 // Light versions of grapohs (edges are filtered). 
 var versions = 

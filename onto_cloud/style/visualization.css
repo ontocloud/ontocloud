@@ -97,6 +97,7 @@
 .spinner_div {
 	position:fixed;	
   	top: 200px;
+  	left: 200px;
 }
 
 .node_menu_content {
