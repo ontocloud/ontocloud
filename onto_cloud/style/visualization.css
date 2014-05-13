@@ -94,6 +94,11 @@
   	top: 40px;
 }
 
+.spinner_div {
+	position:fixed;	
+  	top: 200px;
+}
+
 .node_menu_content {
 
 }

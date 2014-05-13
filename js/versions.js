@@ -1,6 +1,6 @@
 // Domain where verjson sion files are saved.
-var version_domain = "http://bionlp.dbcls.jp/ontocloud/json/";
-//var version_domain = "http://localhost:9090/json/"
+//var version_domain = "http://bionlp.dbcls.jp/ontocloud/json/";
+var version_domain = "http://localhost:9090/json/"
 
 // Light versions of grapohs (edges are filtered). 
 var versions = 
@@ -21,7 +21,7 @@ var versions_full =
 var versions_shape = 
 	[
 		"shape_data_august.json",
-	 	"shape_data_august.json" // Due to code changes both versions use the new same file.
+	 	"shape_data_august.json" // Due to code changes both versions use the same file.
 	];
 
 // We make some functions visible to Node.js (the server). 
