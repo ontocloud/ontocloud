@@ -5,6 +5,7 @@ var version_domain = "http://bionlp.dbcls.jp/ontocloud/json/";
 // Light versions of grapohs (edges are filtered). 
 var versions = 
 	[
+		"graph_july_2014.json",
 		"graph_december_12_2013.json",	
 		"graph_august_16_v3_2013.json", 
 		"graph_february_16_2013_v2.json"

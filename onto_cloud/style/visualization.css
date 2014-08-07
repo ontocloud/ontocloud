@@ -10,7 +10,7 @@
 .custom_graph_div {
 	position:fixed;
 	background: #0080FF;
-	top: 110px;
+	top: 130px;
 	left:330px;
 }
 
@@ -65,7 +65,7 @@
 	position:fixed;
   	top: 54px;
   	left: 330px;
-  	height:80px;
+  	height:100px;
 	width:110px;
 	background: #0080FF;
 	opacity: 0.9;
