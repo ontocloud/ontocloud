@@ -1,10 +1,11 @@
 # OntoCloud  
 ### Description
 OntoCloud aims to visualize mappings between all BioPortal ontologies. Gephi is is used to produce visualization data and D3.js is used to visualize the data.
-Application available here: [OntoCloud application](http://bionlp.dbcls.jp:80/ontocloud)
+Application available here: 
+[OntoCloud application](http://bionlp.dbcls.jp/ontocloud/index.html)
 
 ### TODO list:
-* Adding March 2015 version.
+* Adding the March 2015 version.
 * Recalculate shapes. User should be able to select which types of predicates are used to calculate shape values.
 * Add additional shape information to shape pop-up window.
 * Add additional functionality to “custom graph” mode:
@@ -27,5 +28,5 @@ Application available here: [OntoCloud application](http://bionlp.dbcls.jp:80/on
 
 ### Installation
 To make a local copy up and running, you will need to:
-* install node modules in the /server directory. d3 and jsdom are needed.
-* set the BioPortal API key in /lib/BioPortal.cfg if you plan to use lib files. 
+* Set the BioPortal API key in /lib/BioPortal.cfg if you plan to use the /lib files.
+* Install node modules in the /server directory (in case you wish to install OntoCloud web services). Modules "d3" and "jsdom" are needed.
