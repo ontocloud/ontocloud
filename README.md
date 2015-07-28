@@ -1,7 +1,7 @@
 # OntoCloud  
 ### Description
 OntoCloud aims to visualize mappings between all BioPortal ontologies. Gephi is is used to produce visualization data and D3.js is used to visualize the data.
-Application available at: [bionlp.dbcls.jp/ontocloud](bionlp.dbcls.jp:80/ontocloud)
+Application available at: http://bionlp.dbcls.jp:80/ontocloud
 
 ### TODO list:
 * Adding March 2015 version.
